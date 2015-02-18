@@ -1,0 +1,2840 @@
+<?xml version="1.0" encoding="ISO-8859-15"?>
+<?xml-stylesheet type="text/xsl" href="bdms-style.xsl"?>
+<DsDescriptor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/Users/cyoes/Desktop/bdms_schema.xsd">
+	<Security provider="NATIVE">
+		<Users>
+			<User name="\AARONV" description="">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\AHINOJOS" description="Andreana Hinojosa">
+				<GlobalProfile default="2" EnhancePages="0" ModifyIndex="0" Display="0" ConfigWS="1" MultiLogin="1" EditAnno="0" EditRedact="0" GlobalAnno="0" ReportView="0" CreateAnno="0" CreateRedact="0"/>
+				<Profile appName="B-S-ADMN" default="2" EnhancePages="0" ModifyIndex="0" Display="1" ConfigWS="1" MultiLogin="1" EditAnno="0" EditRedact="0" GlobalAnno="0" ReportView="0" CreateAnno="0" CreateRedact="0"/>
+				<Profile appName="B-G-ID" default="2" EnhancePages="0" ModifyIndex="0" Display="1" ConfigWS="1" MultiLogin="1" EditAnno="0" EditRedact="0" GlobalAnno="0" ReportView="0" CreateAnno="0" CreateRedact="0"/>
+			</User>
+			<User name="\AKENNEY" description="Amanda Kenney">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\ALANA" description="Alan Altimont">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\ALANS" description="Alan Swinkels">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\ALEXAN" description="Alexandra Robinson">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\ALFREDE" description="Fred Estrello">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\AMANDAB" description="">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ADMN" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\AMANDABLOC" description="">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ADMN" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\AMELIEC" description="">
+				<GlobalProfile default="2"/>
+				<Profile appName="B-G-ID" default="2" EnhancePages="0" ModifyIndex="0" Display="1" EditAnno="0" EditRedact="0" GlobalAnno="0" ReportView="0" CreateAnno="0" CreateRedact="0"/>
+			</User>
+			<User name="\AMUKATY" description="Ayesha Mukaty">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ADMN" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\AMYBURNE" description="Amy Burnett">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\AMYK" description="">
+				<GlobalProfile default="2"/>
+				<Profile appName="B-G-ID" default="2" EnhancePages="0" ModifyIndex="0" Display="1" EditAnno="0" EditRedact="0" GlobalAnno="0" ReportView="0" CreateAnno="0" CreateRedact="0"/>
+			</User>
+			<User name="\AMYRC" description="Amy Clements">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\ANGELAM" description="">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-G-ID" default="2" EnhancePages="0" ModifyIndex="0" Display="1" EditAnno="0" EditRedact="0" GlobalAnno="0" ReportView="0" CreateAnno="0" CreateRedact="0"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\ANGELW" description="">
+				<GlobalProfile default="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ADMN" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\ANNAE" description="Anna Escamilla">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\ANNIER" description="">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-G-ID" default="2" EnhancePages="0" ModifyIndex="0" Display="1" EditAnno="0" EditRedact="0" GlobalAnno="0" ReportView="0" CreateAnno="0" CreateRedact="0"/>
+			</User>
+			<User name="\ANNIERLOC" description="">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-G-ID" default="2" EnhancePages="0" ModifyIndex="0" Display="1" EditAnno="0" EditRedact="0" GlobalAnno="0" ReportView="0" CreateAnno="0" CreateRedact="0"/>
+			</User>
+			<User name="\ANTONIOA" description="Tony Alvarado">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\ANTONIOR" description="">
+				<GlobalProfile default="2"/>
+				<Profile appName="B-G-ID" default="2" EnhancePages="0" ModifyIndex="0" Display="1" EditAnno="0" EditRedact="0" GlobalAnno="0" ReportView="0" CreateAnno="0" CreateRedact="0"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\APEREZTLOC" description="Areli Perez">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" Display="1" EditAnno="0" EditRedact="0" GlobalAnno="0" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ADMN" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\ARACELIR" description="Araceli Ramirez">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\ARCELIAH" description="Arcelia Hernandez">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\AXIOMINDEX" description="">
+				<GlobalProfile default="2"/>
+			</User>
+			<User name="\AXIOM_SERVICE" description="">
+				<GlobalProfile default="2"/>
+				<Profile appName="B-S-ADMN" default="2" KeyRefImport="1" AutoIndexImport="1" IndexImageImport="1" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-G-ID" default="2" EnhancePages="0" ModifyIndex="0" Display="1" EditAnno="0" EditRedact="0" GlobalAnno="0" ReportView="0" CreateAnno="0" CreateRedact="0"/>
+			</User>
+			<User name="\AXIOM_SERVICE_PROD" description="">
+				<GlobalProfile default="2"/>
+				<Profile appName="B-S-ADMN" default="2" KeyRefImport="1" AutoIndexImport="1" IndexImageImport="1" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\BARBARAF" description="Barbara Filippidis">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\BDMADMIN" description="temp">
+				<GlobalProfile default="2"/>
+			</User>
+			<User name="\BEATYW" description="Beaty Wilson">
+				<GlobalProfile default="2"/>
+			</User>
+			<User name="\BENJIJ" description="">
+				<GlobalProfile default="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ADMN" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-G-ID" default="2" EnhancePages="0" ModifyIndex="0" Display="1" EditAnno="0" EditRedact="0" GlobalAnno="0" ReportView="0" CreateAnno="0" CreateRedact="0"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\BETHMB" description="Beth Bow">
+				<GlobalProfile default="2"/>
+			</User>
+			<User name="\BETHS" description="Beth Eakman">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\BILLQ" description="Bill Quinn">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\BILLYE" description="Billy Earnest">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\BILLZAHN" description="William Zahn">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\BINW" description="Bin Wang">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\BMUNOZ2" description="Blanca Munoz">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ADMN" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\BRENDAV" description="">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\BRIANDAG" description="">
+				<GlobalProfile default="2"/>
+				<Profile appName="B-S-ADMN" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\BRIANDAGLOC" description="Brianda">
+				<GlobalProfile default="2"/>
+				<Profile appName="B-S-ADMN" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\BRIANJS" description="Brian Sheerin">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\BRIANOT" description="">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-G-ID" default="2" EnhancePages="0" ModifyIndex="0" Display="1" EditAnno="0" EditRedact="0" GlobalAnno="0" ReportView="0" CreateAnno="0" CreateRedact="0"/>
+			</User>
+			<User name="\BRIANWS" description="Brian Smith">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\BSHEBARO" description="Bilal Shebaro">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\CAESARA" description="Caesar Almaraz">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\CANDICEF" description="">
+				<GlobalProfile default="2"/>
+				<Profile appName="B-S-ADMN" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-SDS" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\CANDICEFLOC" description="Candice Vasquez local account">
+				<GlobalProfile default="2"/>
+				<Profile appName="B-S-ADMN" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-SDS" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\CAROLG" description="Carol Gee">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\CAROLTC" description="Carolyn Conn">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\CARTEAGLOC" description="Cynthia Arteaga local account">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\CASEYB" description="Casey Burkhart">
+				<GlobalProfile default="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\CASEYS" description="Casey Sherman">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\CASIEP" description="Casie Le Ann Parish-Fisher">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\CATHERNR" description="Catherine Rainwater">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\CATHM" description="Catherine MacDermott">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\CCORDOVLOC" description="Clarissa Cordova - local account">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" Display="1" EditRedact="0" GlobalAnno="0" CreateAnno="0" CreateRedact="0"/>
+			</User>
+			<User name="\CHADL" description="Chad Long">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\CHARLESH" description="Charles Hauser">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\CHERIH" description="Cheri Sullivan">
+				<GlobalProfile default="2"/>
+			</User>
+			<User name="\CHERYLP" description="">
+				<GlobalProfile default="2"/>
+				<Profile appName="B-G-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\CHRISDM" description="Christopher Micklethwait">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\CHRISPM" description="Chris Magott">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\CHRISTIW" description="Christie Wilson">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\CHRISTOF" description="Christopher Flynn">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\CLAIREED" description="">
+				<GlobalProfile default="2"/>
+				<Profile appName="B-G-ID" default="2" EnhancePages="0" ModifyIndex="0" Display="1" EditAnno="0" EditRedact="0" GlobalAnno="0" ReportView="0" CreateAnno="0" CreateRedact="0"/>
+			</User>
+			<User name="\CLAUDIAB" description="">
+				<GlobalProfile default="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ADMN" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\CONSTANC" description="">
+				<GlobalProfile default="2"/>
+				<Profile appName="B-G-ID" default="2" EnhancePages="0" ModifyIndex="0" Display="1" EditAnno="0" EditRedact="0" GlobalAnno="0" ReportView="0" CreateAnno="0" CreateRedact="0"/>
+			</User>
+			<User name="\CONSTANP" description="Connie Porter">
+				<GlobalProfile default="2"/>
+				<Profile appName="B-G-ID" default="2" EnhancePages="0" ModifyIndex="0" Display="1" EditAnno="0" EditRedact="0" GlobalAnno="0" ReportView="0" CreateAnno="0" CreateRedact="0"/>
+			</User>
+			<User name="\CORINNEW" description="Corinne Weisgerber">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\CORYJL" description="Cory Lyle">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\CRAIGLW" description="Craig Williams">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\CROTARU" description="Camelia Rotaru">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\CURTH" description="">
+				<GlobalProfile default="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ADMN" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\CYNTHIAN" description="">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\CYNTHIAS" description="">
+				<GlobalProfile default="2"/>
+				<Profile appName="B-S-ADMN" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\CYNTHS" description="">
+				<GlobalProfile default="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ADMN" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\CYOES" description="">
+				<GlobalProfile default="1" WXPAL="2" CreateAnno="1" CreateRedact="1"/>
+				<Profile appName="SEU-S-ACAF" default="1" WXPAL="2" CreateAnno="1" CreateRedact="1"/>
+			</User>
+			<User name="\DANAM" description="Dana Mazur">
+				<GlobalProfile default="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\DANICAD" description="Danica Frampton">
+				<GlobalProfile default="2" EnhancePages="0" ModifyIndex="0" Display="1" ConfigWS="1" MultiLogin="1" EditAnno="0" EditRedact="0" GlobalAnno="0" ReportView="0" CreateAnno="0" CreateRedact="0"/>
+				<Profile appName="B-S-ID" default="2" EnhancePages="0" ModifyIndex="0" Display="1" ConfigWS="1" MultiLogin="1" EditAnno="0" EditRedact="0" GlobalAnno="0" ReportView="0" CreateAnno="0" CreateRedact="0"/>
+				<Profile appName="B-S-ADMN" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\DANIELPG" description="Daniel Glenn">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\DANIELPO" description="">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-G-ID" default="2" EnhancePages="0" ModifyIndex="0" Display="1" EditAnno="0" EditRedact="0" GlobalAnno="0" ReportView="0" CreateAnno="0" CreateRedact="0"/>
+			</User>
+			<User name="\DANIELR" description="Dan Rajaratnam">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\DANIELS" description="">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-G-ID" default="2" EnhancePages="0" ModifyIndex="0" Display="1" EditAnno="0" EditRedact="0" GlobalAnno="0" ReportView="0" CreateAnno="0" CreateRedact="0"/>
+			</User>
+			<User name="\DANIW" description="Dani Williard">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\DANNYL" description="">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-G-ID" default="2" EnhancePages="0" ModifyIndex="0" Display="1" EditAnno="0" EditRedact="0" GlobalAnno="0" ReportView="0" CreateAnno="0" CreateRedact="0"/>
+			</User>
+			<User name="\DARRELT" description="">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-G-ID" default="2" EnhancePages="0" ModifyIndex="0" Display="1" EditAnno="0" EditRedact="0" GlobalAnno="0" ReportView="0" CreateAnno="0" CreateRedact="0"/>
+			</User>
+			<User name="\DAVIDA" description="David Altounian">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\DAVIDBE" description="">
+				<GlobalProfile default="2"/>
+				<Profile appName="B-G-ID" default="2" EnhancePages="0" ModifyIndex="0" Display="1" EditAnno="0" EditRedact="0" GlobalAnno="0" ReportView="0" CreateAnno="0" CreateRedact="0"/>
+			</User>
+			<User name="\DAVIDCB" description="">
+				<GlobalProfile default="2"/>
+				<Profile appName="B-G-ID" default="2" EnhancePages="0" ModifyIndex="0" Display="1" EditAnno="0" EditRedact="0" GlobalAnno="0" ReportView="0" CreateAnno="0" CreateRedact="0"/>
+			</User>
+			<User name="\DAVIDML" description="David Long">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\DAVIDN" description="David Naples">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\DAVIDRH" description="David Hollier">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\DAVIDW" description="David Wright">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\DAVINAJ" description="">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-G-ID" default="2" EnhancePages="0" ModifyIndex="0" Display="1" EditAnno="0" EditRedact="0" GlobalAnno="0" ReportView="0" CreateAnno="0" CreateRedact="0"/>
+			</User>
+			<User name="\DEBRAG" description="">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ADMN" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-G-ID" default="2" EnhancePages="0" ModifyIndex="0" Display="1" EditAnno="0" EditRedact="0" GlobalAnno="0" ReportView="0" CreateAnno="0" CreateRedact="0"/>
+			</User>
+			<User name="\DEBRAGLOC" description="">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-G-ID" default="2" EnhancePages="0" ModifyIndex="0" Display="1" EditAnno="0" EditRedact="0" GlobalAnno="0" ReportView="0" CreateAnno="0" CreateRedact="0"/>
+			</User>
+			<User name="\DELIAK" description="Delia Paskos">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\DINAHS" description="">
+				<GlobalProfile default="2"/>
+				<Profile appName="B-G-ID" default="2" EnhancePages="0" ModifyIndex="0" Display="1" EditAnno="0" EditRedact="0" GlobalAnno="0" ReportView="0" CreateAnno="0" CreateRedact="0"/>
+			</User>
+			<User name="\DONALDH" description="Donald Haughey">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\DONNAC" description="">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-G-ID" default="2" EnhancePages="0" ModifyIndex="0" Display="1" EditAnno="0" EditRedact="0" GlobalAnno="0" ReportView="0" CreateAnno="0" CreateRedact="0"/>
+			</User>
+			<User name="\DONNAJ" description="">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\DONNASG" description="Donna Ivey">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ADMN" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\DORAP" description="">
+				<GlobalProfile default="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ADMN" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-G-ID" default="2" EnhancePages="0" ModifyIndex="0" Display="1" EditAnno="0" EditRedact="0" GlobalAnno="0" ReportView="0" CreateAnno="0" CreateRedact="0"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\DORISC" description="">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-G-ID" default="2" EnhancePages="0" ModifyIndex="0" Display="1" EditAnno="0" EditRedact="0" GlobalAnno="0" ReportView="0" CreateAnno="0" CreateRedact="0"/>
+			</User>
+			<User name="\DREWML" description="Drew Loewe">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\DREWN" description="">
+				<GlobalProfile default="2"/>
+				<Profile appName="B-G-ID" default="2" EnhancePages="0" ModifyIndex="0" Display="1" EditAnno="0" EditRedact="0" GlobalAnno="0" ReportView="0" CreateAnno="0" CreateRedact="0"/>
+			</User>
+			<User name="\DWIGHTD" description="">
+				<GlobalProfile default="2"/>
+				<Profile appName="B-G-ID" default="2" EnhancePages="0" ModifyIndex="0" Display="1" EditAnno="0" EditRedact="0" GlobalAnno="0" ReportView="0" CreateAnno="0" CreateRedact="0"/>
+			</User>
+			<User name="\EDWARDE" description="Edward Early">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\EJOHNSO1" description="Liz Johnson">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\ELIZK" description="">
+				<GlobalProfile default="2"/>
+				<Profile appName="B-G-ID" default="2" EnhancePages="0" ModifyIndex="0" Display="1" EditAnno="0" EditRedact="0" GlobalAnno="0" ReportView="0" CreateAnno="0" CreateRedact="0"/>
+			</User>
+			<User name="\ELMAC" description="">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-G-ID" default="2" EnhancePages="0" ModifyIndex="0" Display="1" EditAnno="0" EditRedact="0" GlobalAnno="0" ReportView="0" CreateAnno="0" CreateRedact="0"/>
+			</User>
+			<User name="\ELMACLOC" description="">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-G-ID" default="2" EnhancePages="0" ModifyIndex="0" Display="1" EditAnno="0" EditRedact="0" GlobalAnno="0" ReportView="0" CreateAnno="0" CreateRedact="0"/>
+			</User>
+			<User name="\EMMAL" description="Emma Lou Lin">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\ERINDG" description="Erin Garcia">
+				<GlobalProfile default="2"/>
+				<Profile appName="B-S-ADMN" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\ERINFL" description="Erin Mack">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-G-ID" default="2" EnhancePages="0" ModifyIndex="0" Display="1" EditAnno="0" EditRedact="0" GlobalAnno="0" ReportView="0" CreateAnno="0" CreateRedact="0"/>
+			</User>
+			<User name="\ERINR" description="Erin Ray">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ADMN" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\ERINT" description="">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ADMN" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-G-ID" default="2" EnhancePages="0" ModifyIndex="0" Display="1" EditAnno="0" EditRedact="0" GlobalAnno="0" ReportView="0" CreateAnno="0" CreateRedact="0"/>
+				<Profile appName="_RSTAMP" default="1" Scan="0" EnhancePages="0" BatchScan="2" BatchIndex="0" ModifyIndex="2" Print="2" ConfigWS="2" DeleteDoc="2" DeletePage="2" CreateApp="2" ModifyApp="2" DeleteApp="2" MigrateApp="2" COLDImport="2" COLDImportMaint="2" COLDBatchExtract="2" Admin="2" MultiLogin="2" DLSMaint="2" KeyRefMaint="2" AutoIndexMaint="2" UserSecurityMaint="2" KeyRefImport="2" AutoIndexImport="2" IndexImageImport="2" EditRedact="0" FullTextIndex="2" FullTextQuery="2" OCR="2" WXPAL="2" ReportView="2" CreateAnno="1" CreateRedact="0" RetentionUser="2" RetentionAdmin="2"/>
+			</User>
+			<User name="\ERINTLOC" description="">
+				<GlobalProfile default="2"/>
+				<Profile appName="_RSTAMP" default="1" Scan="0" EnhancePages="0" BatchScan="2" BatchIndex="0" ModifyIndex="2" Print="2" ConfigWS="2" DeleteDoc="2" DeletePage="2" CreateApp="2" ModifyApp="2" DeleteApp="2" MigrateApp="2" COLDImport="2" COLDImportMaint="2" COLDBatchExtract="2" Admin="2" MultiLogin="2" DLSMaint="2" KeyRefMaint="2" AutoIndexMaint="2" UserSecurityMaint="2" KeyRefImport="2" AutoIndexImport="2" IndexImageImport="2" EditRedact="0" GlobalAnno="0" FullTextIndex="2" FullTextQuery="2" OCR="2" WXPAL="2" ReportView="2" CreateAnno="1" CreateRedact="0" RetentionUser="2" RetentionAdmin="2"/>
+			</User>
+			<User name="\ESTHERY" description="Esther Yacono">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ADMN" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-G-ID" default="2" EnhancePages="0" ModifyIndex="0" Display="1" EditAnno="0" EditRedact="0" GlobalAnno="0" ReportView="0" CreateAnno="0" CreateRedact="0"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\EVALDEZ5" description="">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ADMN" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\EVL" description="Ev Lunning">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\FAISUSR" description="Financial Aid User">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-G-ID" default="2" EnhancePages="0" ModifyIndex="0" Display="1" EditAnno="0" EditRedact="0" GlobalAnno="0" ReportView="0" CreateAnno="0" CreateRedact="0"/>
+			</User>
+			<User name="\FIDELMAO" description="Fidelma O&apos;Leary">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\FMATU" description="Florina Matu">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\FONDAS" description="Fonda Seitz">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ADMN" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\FRANKK" description="Frank Krafka">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\GARYMORRIS" description="Gary Morris">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ADMN" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\GARYP" description="Gary Pletcher">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\GBITTSON" description="Genevieve Bittson">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-G-ID" default="2" EnhancePages="0" ModifyIndex="0" Display="1" EditAnno="0" EditRedact="0" GlobalAnno="0" ReportView="0" CreateAnno="0" CreateRedact="0"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\GBITTSONLOC" description="Genevieve Bittson - Local Account">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-G-ID" default="2" EnhancePages="0" ModifyIndex="0" Display="1" EditAnno="0" EditRedact="0" GlobalAnno="0" ReportView="0" CreateAnno="0" CreateRedact="0"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\GEORGEM" description="">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\GEORGIAS" description="Georgia Seminet">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\GILBERTC" description="">
+				<GlobalProfile default="2"/>
+				<Profile appName="B-S-ADMN" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\GRACIEG" description="">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-G-ID" default="2" EnhancePages="0" ModifyIndex="0" Display="1" EditAnno="0" EditRedact="0" GlobalAnno="0" ReportView="0" CreateAnno="0" CreateRedact="0"/>
+			</User>
+			<User name="\GRANTS" description="Grant Simpson">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\GREGGP" description="Gregg Perry">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\GREGM" description="Greg MacConnell">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ADMN" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\HARVEYS" description="Harvey Morris Stevens">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\HEALY" description="Eamonn Healy">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\HELENEC" description="Helene Caudill">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ADMN" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-G-ID" default="2" EnhancePages="0" ModifyIndex="0" Display="1" EditAnno="0" EditRedact="0" GlobalAnno="0" ReportView="0" CreateAnno="0" CreateRedact="0"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\HENRYA" description="Henry Altmiller">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\HILALY" description="Hilal Yilmaz">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\ILAMC" description="Moriah McCracken">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-G-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\INNESM" description="Innes Mitchell">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\JACKGM" description="Jack Green Musselman">
+				<GlobalProfile default="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\JAMESRH" description="James Hinson">
+				<GlobalProfile default="2"/>
+			</User>
+			<User name="\JAMESWK" description="James Kallman">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\JANETH" description="Janet Hemingway">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ADMN" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-G-ID" default="2" EnhancePages="0" ModifyIndex="0" Display="1" EditAnno="0" EditRedact="0" GlobalAnno="0" ReportView="0" CreateAnno="0" CreateRedact="0"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\JANNR" description="Jann Randle">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\JASONC" description="Jason Callahan">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\JASOND" description="">
+				<GlobalProfile default="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ADMN" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\JASONR" description="Jason Rosenblum">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\JAUBRY" description="">
+				<GlobalProfile default="2"/>
+				<Profile appName="B-G-ID" default="2" EnhancePages="0" ModifyIndex="0" Display="1" EditAnno="0" EditRedact="0" GlobalAnno="0" ReportView="0" CreateAnno="0" CreateRedact="0"/>
+			</User>
+			<User name="\JEANB" description="">
+				<GlobalProfile default="2" ConfigWS="1" MultiLogin="1" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-G-ID" default="2" EnhancePages="0" ModifyIndex="0" Display="1" EditAnno="0" EditRedact="0" GlobalAnno="0" ReportView="0" CreateAnno="0" CreateRedact="0"/>
+			</User>
+			<User name="\JEANNETW" description="Jeannetta Williams">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\JEFFA" description="Jeffrey Allison">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\JEFFERYP" description="Jeff Potratz">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\JENNAH" description="Jenna Heath">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\JENNIFEW" description="">
+				<GlobalProfile default="2"/>
+				<Profile appName="B-G-ID" default="2" EnhancePages="0" ModifyIndex="0" Display="1" EditAnno="0" EditRedact="0" GlobalAnno="0" ReportView="0" CreateAnno="0" CreateRedact="0"/>
+			</User>
+			<User name="\JENNIFRG" description="Jennifer Greene">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\JENNJ" description="Jennifer Phlieger">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\JENNLS" description="Jen Smull">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-R-TREQ" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ADMN" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\JENNV" description="Jennifer Veninga">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\JFRANKS" description="Frank Smith">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\JHAMANN1" description="Jane Hamann">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ADMN" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\JIMMYL" description="Jimmy Luu">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\JOEP" description="Joseph Pluta">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\JOHNAP" description="John Perron">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\JOHNC" description="John Camden">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\JOHNCA" description="John Abbott">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\JOHNEK" description="John Knorr">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\JOHNSL" description="John Loucks">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\JOHNVC" description="John Cotter">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\JOHNW" description="John Whelan">
+				<GlobalProfile default="2"/>
+			</User>
+			<User name="\JONATHAA" description="">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\JONATHAALOC" description="Jonathan Local Account">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\JOOYOUNL" description="Jooyoun Lee">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\JORDANW" description="Jordan Watzlavik">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\JOSEGV" description="">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-G-ID" default="2" EnhancePages="0" ModifyIndex="0" Display="1" EditAnno="0" EditRedact="0" GlobalAnno="0" ReportView="0" CreateAnno="0" CreateRedact="0"/>
+			</User>
+			<User name="\JOSEPHCC" description="Joseph Colarusso">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\JOSEPHV" description="Joe Vitone">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\JOYW" description="Joy Wiegman">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ADMN" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-G-ID" default="2" EnhancePages="0" ModifyIndex="0" Display="1" EditAnno="0" EditRedact="0" GlobalAnno="0" ReportView="0" CreateAnno="0" CreateRedact="0"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\JUANITAS" description="Juanita Servin">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\JUDYL" description="Judy Leavell">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\JULIAL" description="">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\JULIEH" description="Julie Hiebert">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\JWEBSTER" description="Jill Webster">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-G-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\KARENS" description="">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-G-ID" default="2" EnhancePages="0" ModifyIndex="0" Display="1" EditAnno="0" EditRedact="0" GlobalAnno="0" ReportView="0" CreateAnno="0" CreateRedact="0"/>
+			</User>
+			<User name="\KATHE" description="Kathryn Eader">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\KATHL" description="Kate Lopez">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\KATHLEEW" description="Kathleen Wilburn">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\KATHYB" description="Kathy Brown">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\KATHYJ" description="Kathy Jackson">
+				<GlobalProfile default="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ADMN" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-G-ID" default="2" EnhancePages="0" ModifyIndex="0" Display="1" EditAnno="0" EditRedact="0" GlobalAnno="0" ReportView="0" CreateAnno="0" CreateRedact="0"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\KATHYS" description="Kathy Beth Stavinoha">
+				<GlobalProfile default="2"/>
+			</User>
+			<User name="\KATIEM" description="">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-G-ID" default="2" EnhancePages="0" ModifyIndex="0" Display="1" EditAnno="0" EditRedact="0" GlobalAnno="0" ReportView="0" CreateAnno="0" CreateRedact="0"/>
+			</User>
+			<User name="\KATIEPH" description="Katie Peterson-Hernandez">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\KATYO" description="Katy Oliveira-Lambert">
+				<GlobalProfile default="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ADMN" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\KEITHFW" description="Keith Ward">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\KELLEYB" description="Kelley Coblentz Bautch">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\KELLYGR" description="Kelly Green">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\KELSEYM" description="">
+				<GlobalProfile default="2"/>
+				<Profile appName="B-G-ID" default="2" EnhancePages="0" ModifyIndex="0" Display="1" EditAnno="0" EditRedact="0" GlobalAnno="0" ReportView="0" CreateAnno="0" CreateRedact="0"/>
+			</User>
+			<User name="\KENDALLK" description="Kendall Kelly">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\KENDALLS" description="Kendall Swanson">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ADMN" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-G-ID" default="2" EnhancePages="0" ModifyIndex="0" Display="1" EditAnno="0" EditRedact="0" GlobalAnno="0" ReportView="0" CreateAnno="0" CreateRedact="0"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\KENDALLSLOC" description="Kendall Swanson local account">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ADMN" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-G-ID" default="2" EnhancePages="0" ModifyIndex="0" Display="1" EditAnno="0" EditRedact="0" GlobalAnno="0" ReportView="0" CreateAnno="0" CreateRedact="0"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-SDS" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\KERRIEV" description="">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-G-ID" default="2" EnhancePages="0" ModifyIndex="0" Display="1" EditAnno="0" EditRedact="0" GlobalAnno="0" ReportView="0" CreateAnno="0" CreateRedact="0"/>
+			</User>
+			<User name="\KIMBERH" description="">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-G-ID" default="2" EnhancePages="0" ModifyIndex="0" Display="1" EditAnno="0" EditRedact="0" GlobalAnno="0" ReportView="0" CreateAnno="0" CreateRedact="0"/>
+			</User>
+			<User name="\KIMG" description="Kim Garza">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\KIML" description="Kim Livingston">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\KIMW" description="">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-G-ID" default="2" EnhancePages="0" ModifyIndex="0" Display="1" EditAnno="0" EditRedact="0" GlobalAnno="0" ReportView="0" CreateAnno="0" CreateRedact="0"/>
+			</User>
+			<User name="\KINGSLEY" description="P. Raelynn Deaton Haynes">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\KOPEC" description="Richard Kopec">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\KRISS" description="Kristy Sloan">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\KRISTYB" description="Kristy Ballard">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\KRISTYH" description="">
+				<GlobalProfile default="2"/>
+			</User>
+			<User name="\LANCEH" description="">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-G-ID" default="2" EnhancePages="0" ModifyIndex="0" Display="1" EditAnno="0" EditRedact="0" GlobalAnno="0" ReportView="0" CreateAnno="0" CreateRedact="0"/>
+			</User>
+			<User name="\LANCET" description="Lance Texter">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-G-ID" default="2" EnhancePages="0" ModifyIndex="0" Display="1" EditAnno="0" EditRedact="0" GlobalAnno="0" ReportView="0" CreateAnno="0" CreateRedact="0"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAD" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\LANCETLOC" description="Lance Texter - local account">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-G-ID" default="2" EnhancePages="0" ModifyIndex="0" Display="1" EditAnno="0" EditRedact="0" GlobalAnno="0" ReportView="0" CreateAnno="0" CreateRedact="0"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAD" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\LAURAAH" description="Hollis Hammonds">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAD" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\LAURAB" description="Laura Baker">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\LAURAER" description="Laura Ray">
+				<GlobalProfile default="2"/>
+				<Profile appName="B-S-ADMN" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\LAWRENCC" description="Lawrence Contero">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ADMN" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\LEANNZ" description="Leanndrea Zaczek-Turbeville">
+				<GlobalProfile default="2"/>
+				<Profile appName="B-G-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\LEIGHANR" description="">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-G-ID" default="2" EnhancePages="0" ModifyIndex="0" Display="1" EditAnno="0" EditRedact="0" GlobalAnno="0" ReportView="0" CreateAnno="0" CreateRedact="0"/>
+			</User>
+			<User name="\LEIGHANRLOC" description="Leighanne Rodriguez (local)">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-G-ID" default="2" EnhancePages="0" ModifyIndex="0" Display="1" EditAnno="0" EditRedact="0" GlobalAnno="0" ReportView="0" CreateAnno="0" CreateRedact="0"/>
+			</User>
+			<User name="\LEORAR" description="">
+				<GlobalProfile default="2"/>
+				<Profile appName="B-G-ID" default="2" EnhancePages="0" ModifyIndex="0" Display="1" EditAnno="0" EditRedact="0" GlobalAnno="0" ReportView="0" CreateAnno="0" CreateRedact="0"/>
+			</User>
+			<User name="\LESLIEL" description="Leslie Lenn">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\LESLIELL" description="Leslie Loughmiller">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\LGONZAL4" description="Linda Vallejo">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\LINDSEYT" description="Lindsey Taucher">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\LISAGO" description="Lisa Goering">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\LISAK" description="">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\LIZL" description="Elizabeth Lindsey">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ADMN" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-G-ID" default="2" EnhancePages="0" ModifyIndex="0" Display="1" EditAnno="0" EditRedact="0" GlobalAnno="0" ReportView="0" CreateAnno="0" CreateRedact="0"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\LLACAYO" description="Leonidas Lacayo">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ADMN" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\LORELEIO" description="Lorelei Ortiz">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\LORIC" description="">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ADMN" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-G-ID" default="2" EnhancePages="0" ModifyIndex="0" Display="1" EditAnno="0" EditRedact="0" GlobalAnno="0" ReportView="0" CreateAnno="0" CreateRedact="0"/>
+			</User>
+			<User name="\LORICLOC" description="">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ADMN" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-G-ID" default="2" EnhancePages="0" ModifyIndex="0" Display="1" EditAnno="0" EditRedact="0" GlobalAnno="0" ReportView="0" CreateAnno="0" CreateRedact="0"/>
+			</User>
+			<User name="\LORIE" description="">
+				<GlobalProfile default="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ADMN" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-G-ID" default="2" EnhancePages="0" ModifyIndex="0" Display="1" EditAnno="0" EditRedact="0" GlobalAnno="0" ReportView="0" CreateAnno="0" CreateRedact="0"/>
+			</User>
+			<User name="\LORIP" description="Lori Peterson">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\LOUISB" description="Lou Brusatti">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\LOUISES" description="">
+				<GlobalProfile default="2"/>
+				<Profile appName="B-G-ID" default="2" EnhancePages="0" ModifyIndex="0" Display="1" EditAnno="0" EditRedact="0" GlobalAnno="0" ReportView="0" CreateAnno="0" CreateRedact="0"/>
+			</User>
+			<User name="\LUCIEP" description="Lucie Perez">
+				<GlobalProfile default="2"/>
+			</User>
+			<User name="\LYNNR" description="Lynn Rudloff">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\MARIAFC" description="">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-G-ID" default="2" EnhancePages="0" ModifyIndex="0" Display="1" EditAnno="0" EditRedact="0" GlobalAnno="0" ReportView="0" CreateAnno="0" CreateRedact="0"/>
+			</User>
+			<User name="\MARIBELT" description="Maribel Tostado">
+				<GlobalProfile default="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ADMN" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\MARIER" description="Mary Rist">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\MARIOM" description="">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-G-ID" default="2" EnhancePages="0" ModifyIndex="0" Display="1" EditAnno="0" EditRedact="0" GlobalAnno="0" ReportView="0" CreateAnno="0" CreateRedact="0"/>
+			</User>
+			<User name="\MARISAP" description="">
+				<GlobalProfile default="2"/>
+				<Profile appName="B-G-ID" default="2" EnhancePages="0" ModifyIndex="0" Display="1" EditAnno="0" EditRedact="0" GlobalAnno="0" ReportView="0" CreateAnno="0" CreateRedact="0"/>
+			</User>
+			<User name="\MARISSAB" description="Marissa Bates">
+				<GlobalProfile default="2"/>
+			</User>
+			<User name="\MARKC" description="Mark Cherry">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\MARKP" description="Mark Poulos">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\MARYA" description="Mary Culkin">
+				<GlobalProfile default="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ADMN" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\MARYBD" description="Mary Dunn">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\MARYHS" description="Mary Helen Specht">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\MARYK" description="Mary Kopecki-Fjetland">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\MARYKB" description="Mary Brantl">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\MATTCL" description="Matthew Clements">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\MBOYD" description="Mary Boyd">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\MCOOKA" description="Mary Cook">
+				<GlobalProfile default="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\MCOOKALOC" description="Mary Cook (Local Scanning Account)">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\MDJADLI" description="Manoosh Djadli">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-SDS" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\MDJADLILOC" description="Manoosh local account">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-SDS" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\MELISSAW" description="">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-G-ID" default="2" EnhancePages="0" ModifyIndex="0" Display="1" EditAnno="0" EditRedact="0" GlobalAnno="0" ReportView="0" CreateAnno="0" CreateRedact="0"/>
+			</User>
+			<User name="\MICHAELK" description="Michael Kinsey">
+				<GlobalProfile default="2"/>
+				<Profile appName="B-S-ADMN" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\MICHAELKART" description="Michael Kart">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\MICHAELM" description="Michael Massey">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\MICHELEM" description="Michele Moragne e Silva">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\MICHELLP" description="Michelle Polgar">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\MICHELR" description="Michelle Robertson">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\MICHELRS" description="Michele Region-Sebest">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\MICHELYR" description="Michelle Richter">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\MIGUELN" description="Miguel Nino">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\MIKEAC" description="Mika Acosta">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ADMN" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-G-ID" default="2" EnhancePages="0" ModifyIndex="0" Display="1" EditAnno="0" EditRedact="0" GlobalAnno="0" ReportView="0" CreateAnno="0" CreateRedact="0"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\MIKEDI" description="Mike Disch">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\MIKEH" description="Michael Harris">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\MIKELG" description="Michael Lykaios Guerrero">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\MIKEM" description="">
+				<GlobalProfile default="1" WXPAL="2" CreateAnno="1" CreateRedact="1"/>
+			</User>
+			<User name="\MIKEPS" description="Michael Saclolo">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\MIKEWA" description="Michael Wasserman">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\MITYLENM" description="Mity Myhr">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\MOLLYM" description="Molly Minus">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ADMN" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-G-ID" default="2" EnhancePages="0" ModifyIndex="0" Display="1" EditAnno="0" EditRedact="0" GlobalAnno="0" ReportView="0" CreateAnno="0" CreateRedact="0"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\MONIQUEM" description="Monique McGregor">
+				<GlobalProfile default="2"/>
+				<Profile appName="B-S-ADMN" default="2" Print="1" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-G-ID" default="2" EnhancePages="0" ModifyIndex="0" Display="1" EditAnno="0" EditRedact="0" GlobalAnno="0" ReportView="0" CreateAnno="0" CreateRedact="0"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\MRAMIR11" description="">
+				<GlobalProfile default="2"/>
+				<Profile appName="B-G-ID" default="2" EnhancePages="0" ModifyIndex="0" Display="1" EditAnno="0" EditRedact="0" GlobalAnno="0" ReportView="0" CreateAnno="0" CreateRedact="0"/>
+			</User>
+			<User name="\NAIRODW" description="Nairod Woods">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ADMN" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\NATACHAM" description="Natacha Martin">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\NATALIAQ" description="Natalia Quintanilla">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ADMN" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-G-ID" default="2" EnhancePages="0" ModifyIndex="0" Display="1" EditAnno="0" EditRedact="0" GlobalAnno="0" ReportView="0" CreateAnno="0" CreateRedact="0"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\NICHOLET" description="">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-G-ID" default="2" EnhancePages="0" ModifyIndex="0" Display="1" EditAnno="0" EditRedact="0" GlobalAnno="0" ReportView="0" CreateAnno="0" CreateRedact="0"/>
+			</User>
+			<User name="\NICKDP" description="Nicholas Phelps">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ADMN" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\NICOLEG" description="Nicole Trevino">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\NICOLER" description="Nicole Reimers Wilkins">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\NIRVIN" description="">
+				<GlobalProfile default="2"/>
+				<Profile appName="B-G-ID" default="2" EnhancePages="0" ModifyIndex="0" Display="1" EditAnno="0" EditRedact="0" GlobalAnno="0" ReportView="0" CreateAnno="0" CreateRedact="0"/>
+			</User>
+			<User name="\NJOHNSO1" description="Nathanael Johnson">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\NSCHREIB" description="Nancy Schreiber">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ADMN" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\PATP" description="Patricia Perry">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\PATRICIAB" description="Patricia Baynham">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\PATRICKF" description="">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-G-ID" default="2" EnhancePages="0" ModifyIndex="0" Display="1" EditAnno="0" EditRedact="0" GlobalAnno="0" ReportView="0" CreateAnno="0" CreateRedact="0"/>
+			</User>
+			<User name="\PETERAB" description="Peter Beck">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ADMN" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-G-ID" default="2" EnhancePages="0" ModifyIndex="0" Display="1" EditAnno="0" EditRedact="0" GlobalAnno="0" ReportView="0" CreateAnno="0" CreateRedact="0"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\PETERAW" description="Peter Wake">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\PETERB" description="Peter Beilharz">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-G-ID" default="2" EnhancePages="0" ModifyIndex="0" Display="1" EditAnno="0" EditRedact="0" GlobalAnno="0" ReportView="0" CreateAnno="0" CreateRedact="0"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\PETERK" description="Peter King">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\PSEMINET" description="Philippe Seminet">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\RACHAELN" description="Rachael Neal">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\RACHELMC" description="Rachel Meissner">
+				<GlobalProfile default="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ADMN" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\RAKUNDI" description="Rama Akundi">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\RALPHW" description="Ralph Wilburn">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\RAMSEYH" description="">
+				<GlobalProfile default="2"/>
+				<Profile appName="B-G-ID" default="2" EnhancePages="0" ModifyIndex="0" Display="1" EditAnno="0" EditRedact="0" GlobalAnno="0" ReportView="0" CreateAnno="0" CreateRedact="0"/>
+			</User>
+			<User name="\RAULAH" description="Raul Hernandez">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-G-ID" default="2" EnhancePages="0" ModifyIndex="0" Display="1" EditAnno="0" EditRedact="0" GlobalAnno="0" ReportView="0" CreateAnno="0" CreateRedact="0"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\RAULHLOC" description="">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-G-ID" default="2" EnhancePages="0" ModifyIndex="0" Display="1" EditAnno="0" EditRedact="0" GlobalAnno="0" ReportView="0" CreateAnno="0" CreateRedact="0"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\RAULT" description="Raul Tapia">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\RAYSANT" description="Ray Sant">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\REBECCAR" description="Rebecca Rodriguez">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\REGINAF" description="Regina Faunes">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\RHONDAM" description="">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-G-ID" default="2" EnhancePages="0" ModifyIndex="0" Display="1" EditAnno="0" EditRedact="0" GlobalAnno="0" ReportView="0" CreateAnno="0" CreateRedact="0"/>
+			</User>
+			<User name="\RHONDAMLOC" description="">
+				<GlobalProfile default="2"/>
+				<Profile appName="B-G-ID" default="2" EnhancePages="0" ModifyIndex="0" Display="1" EditAnno="0" EditRedact="0" GlobalAnno="0" ReportView="0" CreateAnno="0" CreateRedact="0"/>
+			</User>
+			<User name="\RICHARDB" description="Richard Bautch">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\RICHP" description="">
+				<GlobalProfile default="2"/>
+				<Profile appName="B-G-ID" default="2" EnhancePages="0" ModifyIndex="0" Display="1" EditAnno="0" EditRedact="0" GlobalAnno="0" ReportView="0" CreateAnno="0" CreateRedact="0"/>
+			</User>
+			<User name="\RICKA" description="">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-G-ID" default="2" EnhancePages="0" ModifyIndex="0" Display="1" EditAnno="0" EditRedact="0" GlobalAnno="0" ReportView="0" CreateAnno="0" CreateRedact="0"/>
+			</User>
+			<User name="\RLOPEZP" description="Randall Lopez">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ADMN" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\ROCIOR" description="">
+				<GlobalProfile default="2"/>
+				<Profile appName="B-G-ID" default="2" EnhancePages="0" ModifyIndex="0" Display="1" EditAnno="0" EditRedact="0" GlobalAnno="0" ReportView="0" CreateAnno="0" CreateRedact="0"/>
+			</User>
+			<User name="\RODRIGON" description="Rodrigo Nunes">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\ROELM" description="Roel Martinez">
+				<GlobalProfile default="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ADMN" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\ROSALINV" description="">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ADMN" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-G-ID" default="2" EnhancePages="0" ModifyIndex="0" Display="1" EditAnno="0" EditRedact="0" GlobalAnno="0" ReportView="0" CreateAnno="0" CreateRedact="0"/>
+			</User>
+			<User name="\ROSSN" description="Ross Nelson">
+				<GlobalProfile default="2"/>
+				<Profile appName="B-G-ID" default="2" EnhancePages="0" ModifyIndex="0" Display="1" EditAnno="0" EditRedact="0" GlobalAnno="0" ReportView="0" CreateAnno="0" CreateRedact="0"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\RROGERS1" description="Ray Rogers">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\RUSSELLF" description="Russell Frohardt">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\RUSSELLR" description="">
+				<GlobalProfile default="2"/>
+				<Profile appName="B-G-ID" default="2" EnhancePages="0" ModifyIndex="0" Display="1" EditAnno="0" EditRedact="0" GlobalAnno="0" ReportView="0" CreateAnno="0" CreateRedact="0"/>
+			</User>
+			<User name="\RYANH" description="Ryan Hoover">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\SAISUSR" description="Student User">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\SAKUNEB" description="Sarah Akunebu">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ADMN" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\SARAA" description="Sara Villanueva">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\SARACO" description="Sara Cowe">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\SARAG" description="Sara Gibson">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\SARAHB" description="Sarah Burkhart">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-G-ID" default="2" EnhancePages="0" ModifyIndex="0" Display="1" EditAnno="0" EditRedact="0" GlobalAnno="0" ReportView="0" CreateAnno="0" CreateRedact="0"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\SARAHHE" description="">
+				<GlobalProfile default="2"/>
+				<Profile appName="B-G-ID" default="2" EnhancePages="0" ModifyIndex="0" Display="1" EditAnno="0" EditRedact="0" GlobalAnno="0" ReportView="0" CreateAnno="0" CreateRedact="0"/>
+			</User>
+			<User name="\SARAP" description="Sara Parent-Ramos">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\SCOTTC" description="Scott Christopher">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\SCOTTF" description="">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\SELING" description="Selin Guner">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\SFS_SCAN" description="SFS Workstation local account">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\SGAMBOA" description="Suzzanne Gamboa">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ADMN" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\SHANNANB" description="Shannan Butler">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\SHARONN" description="Sharon Nell">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\SHEILAMG" description="Sheila Gordon">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\SHEPHERD" description="Tricia Shepherd">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\SHERRID" description="Sherri Defesche">
+				<GlobalProfile default="2"/>
+				<Profile appName="B-G-ID" default="2" EnhancePages="0" ModifyIndex="0" Display="1" EditAnno="0" EditRedact="0" GlobalAnno="0" ReportView="0" CreateAnno="0" CreateRedact="0"/>
+			</User>
+			<User name="\SKNIGHTO" description="Stacy Knighton">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ADMN" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\SOLC" description="">
+				<GlobalProfile default="2"/>
+				<Profile appName="B-G-ID" default="2" EnhancePages="0" ModifyIndex="0" Display="1" EditAnno="0" EditRedact="0" GlobalAnno="0" ReportView="0" CreateAnno="0" CreateRedact="0"/>
+			</User>
+			<User name="\SSABIN" description="Suzanne Sabin">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ADMN" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\STACEYB" description="Stacey Borasky">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\STANLEYH" description="">
+				<GlobalProfile default="2"/>
+				<Profile appName="B-G-ID" default="2" EnhancePages="0" ModifyIndex="0" Display="1" EditAnno="0" EditRedact="0" GlobalAnno="0" ReportView="0" CreateAnno="0" CreateRedact="0"/>
+			</User>
+			<User name="\STEPHAN" description="">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-G-ID" default="2" EnhancePages="0" ModifyIndex="0" Display="1" EditAnno="0" EditRedact="0" GlobalAnno="0" ReportView="0" CreateAnno="0" CreateRedact="0"/>
+			</User>
+			<User name="\STEPHANM" description="Stephanie Martinez">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\STEPHEND" description="Stephen Dilley">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\STEPHENW" description="">
+				<GlobalProfile default="2"/>
+			</User>
+			<User name="\STEVENF" description="Steve Fletcher">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\STEVENP" description="">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-G-ID" default="2" EnhancePages="0" ModifyIndex="0" Display="1" EditAnno="0" EditRedact="0" GlobalAnno="0" ReportView="0" CreateAnno="0" CreateRedact="0"/>
+			</User>
+			<User name="\STEVERO" description="Steve Rodenborn">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\STUWRK1" description="">
+				<GlobalProfile default="2"/>
+				<Profile appName="B-G-ID" default="2" EnhancePages="0" ModifyIndex="0" Display="1" EditAnno="0" EditRedact="0" GlobalAnno="0" ReportView="0" CreateAnno="0" CreateRedact="0"/>
+			</User>
+			<User name="\STUWRK2" description="">
+				<GlobalProfile default="2"/>
+				<Profile appName="B-G-ID" default="2" EnhancePages="0" ModifyIndex="0" Display="1" EditAnno="0" EditRedact="0" GlobalAnno="0" ReportView="0" CreateAnno="0" CreateRedact="0"/>
+			</User>
+			<User name="\STUWRK3" description="">
+				<GlobalProfile default="2"/>
+				<Profile appName="B-G-ID" default="2" EnhancePages="0" ModifyIndex="0" Display="1" EditAnno="0" EditRedact="0" GlobalAnno="0" ReportView="0" CreateAnno="0" CreateRedact="0"/>
+			</User>
+			<User name="\STUWRK4" description="">
+				<GlobalProfile default="2"/>
+				<Profile appName="B-G-ID" default="2" EnhancePages="0" ModifyIndex="0" Display="1" EditAnno="0" EditRedact="0" GlobalAnno="0" ReportView="0" CreateAnno="0" CreateRedact="0"/>
+			</User>
+			<User name="\STUWRK5" description="">
+				<GlobalProfile default="2"/>
+				<Profile appName="B-G-ID" default="2" EnhancePages="0" ModifyIndex="0" Display="1" EditAnno="0" EditRedact="0" GlobalAnno="0" ReportView="0" CreateAnno="0" CreateRedact="0"/>
+			</User>
+			<User name="\SUSANBT" description="Susan Branch-Towne">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\SUSANW" description="Susan Whiteside">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\SYBILM" description="Sybil Miller">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\TERESAMB" description="Teresa Bilinski">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\TERESG" description="Tere Garza">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\TERIV" description="Teri Varner">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\THERESAB" description="Theresa Zelazny">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\THOMASLS" description="Tom Sechrest">
+				<GlobalProfile default="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ADMN" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-G-ID" default="2" EnhancePages="0" ModifyIndex="0" Display="1" EditAnno="0" EditRedact="0" GlobalAnno="0" ReportView="0" CreateAnno="0" CreateRedact="0"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\THOMASP" description="Tom Pate">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\TIMT" description="">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-G-ID" default="2" EnhancePages="0" ModifyIndex="0" Display="1" EditAnno="0" EditRedact="0" GlobalAnno="0" ReportView="0" CreateAnno="0" CreateRedact="0"/>
+			</User>
+			<User name="\TINAD" description="Tina Miranda">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\TMORIN" description="Tomas Morin">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\TOMASY" description="Tom Yufik">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\TRACYM" description="">
+				<GlobalProfile default="2"/>
+				<Profile appName="B-G-ID" default="2" EnhancePages="0" ModifyIndex="0" Display="1" EditAnno="0" EditRedact="0" GlobalAnno="0" ReportView="0" CreateAnno="0" CreateRedact="0"/>
+			</User>
+			<User name="\TRACYMC" description="Tracy Canales">
+				<GlobalProfile default="2"/>
+				<Profile appName="B-S-ADMN" default="2" Print="1" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-G-ID" default="2" EnhancePages="0" ModifyIndex="0" Display="1" EditAnno="0" EditRedact="0" GlobalAnno="0" ReportView="0" CreateAnno="0" CreateRedact="0"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\TUANP" description="Tuan Phan">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\VALERIES" description="">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-G-ID" default="2" EnhancePages="0" ModifyIndex="0" Display="1" EditAnno="0" EditRedact="0" GlobalAnno="0" ReportView="0" CreateAnno="0" CreateRedact="0"/>
+			</User>
+			<User name="\VCHRISG" description="">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ADMN" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-G-ID" default="2" EnhancePages="0" ModifyIndex="0" Display="1" EditAnno="0" EditRedact="0" GlobalAnno="0" ReportView="0" CreateAnno="0" CreateRedact="0"/>
+			</User>
+			<User name="\WENDYM" description="">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-G-ID" default="2" EnhancePages="0" ModifyIndex="0" Display="1" EditAnno="0" EditRedact="0" GlobalAnno="0" ReportView="0" CreateAnno="0" CreateRedact="0"/>
+			</User>
+			<User name="\WILLBZ" description="Brad Zehner">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\WILLIAMK" description="Bill Kennedy">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\WILLIAMN" description="William Nichols">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\WILLIAMZ" description="Bill Zanardi">
+				<GlobalProfile default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="B-S-ID" default="2" CreateAnno="2" CreateRedact="2"/>
+				<Profile appName="SEU-S-ACAF" default="2" CreateAnno="2" CreateRedact="2"/>
+			</User>
+			<User name="\WORKFLOW_ADMIN" description="WORKFLOW ADMIN">
+				<GlobalProfile default="1" WXPAL="2" CreateAnno="1" CreateRedact="1"/>
+			</User>
+		</Users>
+		<Groups>
+			<Group name="\ACAD ADMINS" description="Academic Employment">
+				<GlobalProfile default="0" ConfigWS="1" MultiLogin="1" CreateAnno="0" CreateRedact="0"/>
+				<Profile appName="SEU-S-ACAD" default="1" DeleteDoc="0" DeletePage="0" CreateApp="0" ModifyApp="0" DeleteApp="0" MigrateApp="0" COLDImport="0" COLDImportMaint="0" COLDBatchExtract="0" Admin="0" DLSMaint="0" KeyRefMaint="0" AutoIndexMaint="0" UserSecurityMaint="0" KeyRefImport="0" AutoIndexImport="0" IndexImageImport="0" GlobalAnno="0" FullTextIndex="0" FullTextQuery="0" OCR="0" WXPAL="0" ReportView="0" CreateAnno="1" CreateRedact="0" RetentionUser="0" RetentionAdmin="0"/>
+				<Users>
+					<User name="\LANCET"/>
+					<User name="\LANCETLOC"/>
+				</Users>
+			</Group>
+			<Group name="\ACAD INDEXERS" description="">
+				<GlobalProfile default="0" ConfigWS="1" MultiLogin="1" CreateAnno="0" CreateRedact="0"/>
+				<Profile appName="SEU-S-ACAD" default="1" Print="0" DeleteDoc="0" DeletePage="0" CreateApp="0" ModifyApp="0" DeleteApp="0" MigrateApp="0" COLDImport="0" COLDImportMaint="0" COLDBatchExtract="0" Admin="0" DLSMaint="0" KeyRefMaint="0" AutoIndexMaint="0" UserSecurityMaint="0" KeyRefImport="0" AutoIndexImport="0" IndexImageImport="0" EditAnno="0" EditRedact="0" GlobalAnno="0" FullTextIndex="0" FullTextQuery="0" OCR="0" WXPAL="0" ReportView="0" CreateAnno="0" CreateRedact="0" RetentionUser="0" RetentionAdmin="0"/>
+				<Users>
+</Users>
+			</Group>
+			<Group name="\ACAD VIEWERS" description="Academic Employment">
+				<GlobalProfile default="0" ConfigWS="1" MultiLogin="1" CreateAnno="0" CreateRedact="0"/>
+				<Profile appName="SEU-S-ACAD" default="0" Display="1" ConfigWS="1" MultiLogin="1" CreateAnno="0" CreateRedact="0"/>
+				<Users>
+					<User name="\LANCET"/>
+					<User name="\LANCETLOC"/>
+				</Users>
+			</Group>
+			<Group name="\ACAF ADMINS" description="Academic Affairs Document Administrators">
+				<GlobalProfile default="0" ConfigWS="1" Admin="1" MultiLogin="1" CreateAnno="0" CreateRedact="0"/>
+				<Profile appName="B-S-ID" default="0" Display="1" ConfigWS="1" Admin="1" MultiLogin="1" CreateAnno="0" CreateRedact="0"/>
+				<Profile appName="_RSTAMP" default="0" Display="1" ConfigWS="1" Admin="1" MultiLogin="1" UserSecurityMaint="1" CreateAnno="0" CreateRedact="0"/>
+				<Profile appName="SEU-S-ACAF" default="1" EnhancePages="0" CreateApp="0" ModifyApp="0" DeleteApp="0" MigrateApp="0" COLDImport="0" COLDImportMaint="0" COLDBatchExtract="0" DLSMaint="0" KeyRefMaint="0" AutoIndexMaint="0" UserSecurityMaint="0" KeyRefImport="0" AutoIndexImport="0" IndexImageImport="0" GlobalAnno="0" FullTextIndex="0" FullTextQuery="0" OCR="0" WXPAL="0" ReportView="0" CreateAnno="1" CreateRedact="1" RetentionUser="0" RetentionAdmin="0"/>
+				<Users>
+					<User name="\ANGELAM"/>
+					<User name="\MOLLYM"/>
+					<User name="\GBITTSON"/>
+					<User name="\GBITTSONLOC"/>
+				</Users>
+			</Group>
+			<Group name="\ACAF INDEXERS" description="">
+				<GlobalProfile default="0" ConfigWS="1" MultiLogin="1" CreateAnno="0" CreateRedact="0"/>
+				<Profile appName="SEU-S-ACAF" default="1" DeleteDoc="0" DeletePage="0" CreateApp="0" ModifyApp="0" DeleteApp="0" MigrateApp="0" COLDImport="0" COLDImportMaint="0" COLDBatchExtract="0" Admin="0" DLSMaint="0" KeyRefMaint="0" AutoIndexMaint="0" UserSecurityMaint="0" KeyRefImport="0" AutoIndexImport="0" IndexImageImport="0" EditAnno="0" EditRedact="0" GlobalAnno="0" FullTextIndex="0" FullTextQuery="0" OCR="0" WXPAL="0" ReportView="0" CreateAnno="0" CreateRedact="0" RetentionUser="0" RetentionAdmin="0"/>
+				<Users>
+					<User name="\ANGELAM"/>
+					<User name="\CANDICEF"/>
+					<User name="\GBITTSON"/>
+					<User name="\GBITTSONLOC"/>
+					<User name="\CANDICEFLOC"/>
+				</Users>
+			</Group>
+			<Group name="\ACAF VIEWERS" description="Academic Affairs View Only">
+				<GlobalProfile default="0" ConfigWS="1" MultiLogin="1" CreateAnno="0" CreateRedact="0"/>
+				<Profile appName="B-G-ID" default="0" Display="1" CreateAnno="0" CreateRedact="0"/>
+				<Profile appName="SEU-S-ACAF" default="0" Display="1" ConfigWS="1" MultiLogin="1" CreateAnno="0" CreateRedact="0"/>
+				<Users>
+					<User name="\CYOES"/>
+					<User name="\DONNAC"/>
+					<User name="\DORISC"/>
+					<User name="\ELMAC"/>
+					<User name="\ERINT"/>
+					<User name="\ESTHERY"/>
+					<User name="\JANETH"/>
+					<User name="\JOYW"/>
+					<User name="\KENDALLS"/>
+					<User name="\LANCET"/>
+					<User name="\LIZL"/>
+					<User name="\PATRICKF"/>
+					<User name="\PETERB"/>
+					<User name="\RAULAH"/>
+					<User name="\SARAHB"/>
+					<User name="\ANTONIOR"/>
+					<User name="\MONIQUEM"/>
+					<User name="\ROSSN"/>
+					<User name="\TRACYMC"/>
+					<User name="\DORAP"/>
+					<User name="\KATHYJ"/>
+					<User name="\NATALIAQ"/>
+					<User name="\BENJIJ"/>
+					<User name="\THOMASLS"/>
+					<User name="\HELENEC"/>
+					<User name="\RAULHLOC"/>
+					<User name="\MIKEAC"/>
+					<User name="\PETERAB"/>
+					<User name="\GILBERTC"/>
+					<User name="\MARYA"/>
+					<User name="\RACHELMC"/>
+					<User name="\JENNLS"/>
+					<User name="\ANGELW"/>
+					<User name="\CLAUDIAB"/>
+					<User name="\JASOND"/>
+					<User name="\CURTH"/>
+					<User name="\MICHAELK"/>
+					<User name="\GREGM"/>
+					<User name="\ROELM"/>
+					<User name="\KATYO"/>
+					<User name="\ERINR"/>
+					<User name="\MARIBELT"/>
+					<User name="\CYNTHS"/>
+					<User name="\DAVIDA"/>
+					<User name="\ANTONIOA"/>
+					<User name="\AMYBURNE"/>
+					<User name="\MATTCL"/>
+					<User name="\CAROLTC"/>
+					<User name="\MARYBD"/>
+					<User name="\SARAG"/>
+					<User name="\JAMESWK"/>
+					<User name="\FRANKK"/>
+					<User name="\LESLIEL"/>
+					<User name="\KATHL"/>
+					<User name="\JOHNSL"/>
+					<User name="\CATHM"/>
+					<User name="\LORELEIO"/>
+					<User name="\GREGGP"/>
+					<User name="\GARYP"/>
+					<User name="\MARKP"/>
+					<User name="\MICHELRS"/>
+					<User name="\CROTARU"/>
+					<User name="\RAYSANT"/>
+					<User name="\RAULT"/>
+					<User name="\BINW"/>
+					<User name="\KEITHFW"/>
+					<User name="\KATHLEEW"/>
+					<User name="\RALPHW"/>
+					<User name="\CRAIGLW"/>
+					<User name="\HILALY"/>
+					<User name="\BILLZAHN"/>
+					<User name="\WILLBZ"/>
+					<User name="\KRISTYB"/>
+					<User name="\ALFREDE"/>
+					<User name="\STEVENF"/>
+					<User name="\ARCELIAH"/>
+					<User name="\DAVIDRH"/>
+					<User name="\JOHNEK"/>
+					<User name="\JUDYL"/>
+					<User name="\LESLIELL"/>
+					<User name="\THOMASP"/>
+					<User name="\KATIEPH"/>
+					<User name="\KRISS"/>
+					<User name="\LGONZAL4"/>
+					<User name="\DANIW"/>
+					<User name="\HENRYA"/>
+					<User name="\LAURAB"/>
+					<User name="\TERESAMB"/>
+					<User name="\JASONC"/>
+					<User name="\JOHNC"/>
+					<User name="\EDWARDE"/>
+					<User name="\CAROLG"/>
+					<User name="\LISAGO"/>
+					<User name="\CHARLESH"/>
+					<User name="\MICHAELKART"/>
+					<User name="\PETERK"/>
+					<User name="\MARYK"/>
+					<User name="\DAVIDN"/>
+					<User name="\FIDELMAO"/>
+					<User name="\JEFFERYP"/>
+					<User name="\BILLQ"/>
+					<User name="\MIKEPS"/>
+					<User name="\CASEYS"/>
+					<User name="\STACEYB"/>
+					<User name="\KATHYB"/>
+					<User name="\JOHNVC"/>
+					<User name="\MIKEDI"/>
+					<User name="\ANNAE"/>
+					<User name="\RUSSELLF"/>
+					<User name="\DANIELPG"/>
+					<User name="\KELLYGR"/>
+					<User name="\SELING"/>
+					<User name="\JOOYOUNL"/>
+					<User name="\CHADL"/>
+					<User name="\TINAD"/>
+					<User name="\MITYLENM"/>
+					<User name="\RACHAELN"/>
+					<User name="\WILLIAMN"/>
+					<User name="\RODRIGON"/>
+					<User name="\CASIEP"/>
+					<User name="\DELIAK"/>
+					<User name="\PATP"/>
+					<User name="\MICHELYR"/>
+					<User name="\MICHELR"/>
+					<User name="\BRIANWS"/>
+					<User name="\ALANS"/>
+					<User name="\SARAA"/>
+					<User name="\MIKEWA"/>
+					<User name="\JEANNETW"/>
+					<User name="\CHRISTIW"/>
+					<User name="\TOMASY"/>
+					<User name="\ALANA"/>
+					<User name="\RICHARDB"/>
+					<User name="\MARYKB"/>
+					<User name="\LOUISB"/>
+					<User name="\SHANNANB"/>
+					<User name="\MARKC"/>
+					<User name="\SCOTTC"/>
+					<User name="\AMYRC"/>
+					<User name="\KELLEYB"/>
+					<User name="\STEPHEND"/>
+					<User name="\KATHE"/>
+					<User name="\BILLYE"/>
+					<User name="\REGINAF"/>
+					<User name="\BARBARAF"/>
+					<User name="\CHRISTOF"/>
+					<User name="\TERESG"/>
+					<User name="\KIMG"/>
+					<User name="\SHEILAMG"/>
+					<User name="\JACKGM"/>
+					<User name="\JENNIFRG"/>
+					<User name="\LAURAAH"/>
+					<User name="\DONALDH"/>
+					<User name="\JENNAH"/>
+					<User name="\KENDALLK"/>
+					<User name="\WILLIAMK"/>
+					<User name="\DREWML"/>
+					<User name="\DAVIDML"/>
+					<User name="\EVL"/>
+					<User name="\CORYJL"/>
+					<User name="\STEPHANM"/>
+					<User name="\MICHAELM"/>
+					<User name="\ILAMC"/>
+					<User name="\SYBILM"/>
+					<User name="\INNESM"/>
+					<User name="\MICHELEM"/>
+					<User name="\MIGUELN"/>
+					<User name="\LORIP"/>
+					<User name="\TUANP"/>
+					<User name="\MICHELLP"/>
+					<User name="\CATHERNR"/>
+					<User name="\JANNR"/>
+					<User name="\MARIER"/>
+					<User name="\ALEXAN"/>
+					<User name="\STEVERO"/>
+					<User name="\LYNNR"/>
+					<User name="\PSEMINET"/>
+					<User name="\GEORGIAS"/>
+					<User name="\BRIANJS"/>
+					<User name="\MARYHS"/>
+					<User name="\HARVEYS"/>
+					<User name="\TERIV"/>
+					<User name="\JENNV"/>
+					<User name="\JOSEPHV"/>
+					<User name="\PETERAW"/>
+					<User name="\CORINNEW"/>
+					<User name="\WILLIAMZ"/>
+					<User name="\NSCHREIB"/>
+					<User name="\NICKDP"/>
+					<User name="\BRENDAV"/>
+					<User name="\CYNTHIAN"/>
+					<User name="\GRANTS"/>
+					<User name="\JFRANKS"/>
+					<User name="\KIML"/>
+					<User name="\LINDSEYT"/>
+					<User name="\MBOYD"/>
+					<User name="\MIKELG"/>
+					<User name="\NATACHAM"/>
+					<User name="\NICOLEG"/>
+					<User name="\PATRICIAB"/>
+					<User name="\SHARONN"/>
+					<User name="\DONNASG"/>
+					<User name="\LANCETLOC"/>
+					<User name="\AKENNEY"/>
+					<User name="\BETHS"/>
+					<User name="\BSHEBARO"/>
+					<User name="\CAESARA"/>
+					<User name="\CHRISDM"/>
+					<User name="\EJOHNSO1"/>
+					<User name="\EMMAL"/>
+					<User name="\FMATU"/>
+					<User name="\JASONR"/>
+					<User name="\JEFFA"/>
+					<User name="\JENNJ"/>
+					<User name="\JIMMYL"/>
+					<User name="\JOHNAP"/>
+					<User name="\JOHNCA"/>
+					<User name="\JOSEPHCC"/>
+					<User name="\JUANITAS"/>
+					<User name="\JULIEH"/>
+					<User name="\JWEBSTER"/>
+					<User name="\NJOHNSO1"/>
+					<User name="\RAKUNDI"/>
+					<User name="\REBECCAR"/>
+					<User name="\SARAP"/>
+					<User name="\SHEPHERD"/>
+					<User name="\SUSANBT"/>
+					<User name="\SUSANW"/>
+					<User name="\TMORIN"/>
+					<User name="\KENDALLSLOC"/>
+				</Users>
+			</Group>
+			<Group name="\ADMIN GROUP" description="BDMS Administrators">
+				<GlobalProfile default="1" WXPAL="0" CreateAnno="1" CreateRedact="1"/>
+				<Users>
+					<User name="\MIKEM"/>
+					<User name="\SAISUSR"/>
+					<User name="\SCOTTF"/>
+				</Users>
+			</Group>
+			<Group name="\ADMISSION PRINTING" description="Able to print from BDMS">
+				<GlobalProfile default="0"/>
+				<Profile appName="B-S-ADMN" default="0" Print="1" CreateAnno="0" CreateRedact="0"/>
+				<Users>
+					<User name="\ROCIOR"/>
+					<User name="\MRAMIR11"/>
+					<User name="\MIKEAC"/>
+				</Users>
+			</Group>
+			<Group name="\ADMISSION VIEW ADVANCEMENT" description="">
+				<GlobalProfile default="0" Display="1" ConfigWS="1" MultiLogin="1" CreateAnno="0" CreateRedact="0"/>
+				<Profile appName="B-S-ADMN" default="0" Display="1" CreateAnno="0" CreateRedact="0"/>
+				<Users>
+					<User name="\CHERIH"/>
+					<User name="\JOHNW"/>
+					<User name="\BEATYW"/>
+					<User name="\JAMESRH"/>
+					<User name="\MARISSAB"/>
+					<User name="\KATHYS"/>
+					<User name="\BETHMB"/>
+					<User name="\LUCIEP"/>
+				</Users>
+			</Group>
+			<Group name="\ADMISSION VIEW ADVISOR GRAD" description="Graduate Advisors">
+				<GlobalProfile default="0" ConfigWS="1" MultiLogin="1" CreateAnno="0" CreateRedact="0"/>
+				<Profile appName="B-S-ADMN" default="0" Display="1" ConfigWS="1" MultiLogin="1" CreateAnno="0" CreateRedact="0"/>
+				<Profile appName="B-G-ID" default="0" Display="1" ConfigWS="1" MultiLogin="1" CreateAnno="0" CreateRedact="0"/>
+				<Users>
+					<User name="\NATALIAQ"/>
+					<User name="\BENJIJ"/>
+				</Users>
+			</Group>
+			<Group name="\ADMISSION VIEW ADVISOR NC" description="New College Advisors">
+				<GlobalProfile default="0" ConfigWS="1" MultiLogin="1" CreateAnno="0" CreateRedact="0"/>
+				<Profile appName="B-S-ADMN" default="0" Display="1" Print="1" ConfigWS="1" MultiLogin="1" CreateAnno="0" CreateRedact="0"/>
+				<Profile appName="B-G-ID" default="0" Display="1" ConfigWS="1" MultiLogin="1" CreateAnno="0" CreateRedact="0"/>
+				<Users>
+					<User name="\DORAP"/>
+					<User name="\LORIE"/>
+					<User name="\LAWRENCC"/>
+				</Users>
+			</Group>
+			<Group name="\ADMISSION VIEW ADVISOR UNDG" description="Undergraduate Advisors">
+				<GlobalProfile default="0" ConfigWS="1" MultiLogin="1" CreateAnno="0" CreateRedact="0"/>
+				<Profile appName="B-G-ID" default="0" Display="1" ConfigWS="1" MultiLogin="1" CreateAnno="0" CreateRedact="0"/>
+				<Users>
+</Users>
+			</Group>
+			<Group name="\ADMISSION VIEW CAMP" description="CAMP Advisors">
+				<GlobalProfile default="0" ConfigWS="1" MultiLogin="1" CreateAnno="0" CreateRedact="0"/>
+				<Profile appName="B-S-ADMN" default="0" Display="1" ConfigWS="1" MultiLogin="1" CreateAnno="0" CreateRedact="0"/>
+				<Profile appName="B-G-ID" default="0" Display="1" ConfigWS="1" MultiLogin="1" CreateAnno="0" CreateRedact="0"/>
+				<Users>
+					<User name="\ROSALINV"/>
+					<User name="\GILBERTC"/>
+					<User name="\MARYA"/>
+					<User name="\RACHELMC"/>
+					<User name="\JENNLS"/>
+					<User name="\ANGELW"/>
+				</Users>
+			</Group>
+			<Group name="\ADMISSION VIEW DEANS" description="Deans and Faculty">
+				<GlobalProfile default="0" ConfigWS="1" MultiLogin="1" CreateAnno="0" CreateRedact="0"/>
+				<Profile appName="B-S-ADMN" default="0" Display="1" ConfigWS="1" MultiLogin="1" CreateAnno="0" CreateRedact="0"/>
+				<Profile appName="B-G-ID" default="0" Display="1" ConfigWS="1" MultiLogin="1" CreateAnno="0" CreateRedact="0"/>
+				<Users>
+					<User name="\CONSTANC"/>
+					<User name="\STANLEYH"/>
+					<User name="\AMELIEC"/>
+					<User name="\DWIGHTD"/>
+					<User name="\RAMSEYH"/>
+					<User name="\ELIZK"/>
+					<User name="\RICHP"/>
+					<User name="\RUSSELLR"/>
+					<User name="\THOMASLS"/>
+					<User name="\LOUISES"/>
+					<User name="\HELENEC"/>
+					<User name="\CONSTANP"/>
+					<User name="\PETERAB"/>
+					<User name="\NSCHREIB"/>
+					<User name="\GARYMORRIS"/>
+				</Users>
+			</Group>
+			<Group name="\ADMISSION VIEW REGISTRAR" description="">
+				<GlobalProfile default="0" ConfigWS="1" MultiLogin="1" CreateAnno="0" CreateRedact="0"/>
+				<Profile appName="B-S-ADMN" default="0" Display="1" ConfigWS="1" MultiLogin="1" CreateAnno="0" CreateRedact="0"/>
+				<Profile appName="B-G-ID" default="0" Display="1" ConfigWS="1" MultiLogin="1" CreateAnno="0" CreateRedact="0"/>
+				<Users>
+					<User name="\AMANDAB"/>
+					<User name="\DANIELPO"/>
+					<User name="\DONNAC"/>
+					<User name="\ERINT"/>
+					<User name="\LANCEH"/>
+					<User name="\LEIGHANR"/>
+					<User name="\LORIC"/>
+					<User name="\MARIAFC"/>
+					<User name="\PATRICKF"/>
+					<User name="\STEPHAN"/>
+					<User name="\BRIANDAG"/>
+					<User name="\BRIANDAGLOC"/>
+					<User name="\ERINTLOC"/>
+					<User name="\LEIGHANRLOC"/>
+					<User name="\AMANDABLOC"/>
+					<User name="\LORICLOC"/>
+				</Users>
+			</Group>
+			<Group name="\ADMISSION VIEW SFS" description="">
+				<GlobalProfile default="0" ConfigWS="1" MultiLogin="1" CreateAnno="0" CreateRedact="0"/>
+				<Profile appName="B-S-ADMN" default="0" Display="1" ConfigWS="1" MultiLogin="1" CreateAnno="0" CreateRedact="0"/>
+				<Profile appName="B-G-ID" default="0" Display="1" ConfigWS="1" MultiLogin="1" CreateAnno="0" CreateRedact="0"/>
+				<Users>
+					<User name="\DANIELS"/>
+					<User name="\DARRELT"/>
+					<User name="\DAVINAJ"/>
+					<User name="\DORISC"/>
+					<User name="\ERINFL"/>
+					<User name="\GRACIEG"/>
+					<User name="\JEANB"/>
+					<User name="\KARENS"/>
+					<User name="\KATIEM"/>
+					<User name="\KIMBERH"/>
+					<User name="\KIMW"/>
+					<User name="\MELISSAW"/>
+					<User name="\NICHOLET"/>
+					<User name="\PETERB"/>
+					<User name="\RICKA"/>
+					<User name="\SARAHB"/>
+					<User name="\STEVENP"/>
+					<User name="\VALERIES"/>
+					<User name="\VCHRISG"/>
+					<User name="\AHINOJOS"/>
+				</Users>
+			</Group>
+			<Group name="\ADMISSIONS ADMINS" description="Admissions Administrators">
+				<GlobalProfile default="0" ConfigWS="1" Admin="1" MultiLogin="1" CreateAnno="0" CreateRedact="0"/>
+				<Profile appName="B-S-ADMN" default="1" CreateApp="0" DeleteApp="0" MigrateApp="0" COLDImport="0" COLDImportMaint="0" COLDBatchExtract="0" KeyRefMaint="0" AutoIndexMaint="0" KeyRefImport="0" AutoIndexImport="0" IndexImageImport="0" FullTextIndex="0" FullTextQuery="0" OCR="0" WXPAL="0" ReportView="0" CreateAnno="1" CreateRedact="1" RetentionUser="0" RetentionAdmin="0"/>
+				<Profile appName="B-G-ID" default="0" Display="1" ConfigWS="1" Admin="1" MultiLogin="1" CreateAnno="0" CreateRedact="0"/>
+				<Profile appName="_RSTAMP" default="0" Display="1" ConfigWS="1" Admin="1" MultiLogin="1" UserSecurityMaint="1" CreateAnno="0" CreateRedact="0"/>
+				<Users>
+					<User name="\ELMAC"/>
+					<User name="\RHONDAM"/>
+					<User name="\RHONDAMLOC"/>
+					<User name="\ELMACLOC"/>
+				</Users>
+			</Group>
+			<Group name="\ADMISSIONS DELETE" description="Authorized to delete docs and pages">
+				<GlobalProfile default="0"/>
+				<Profile appName="B-S-ADMN" default="0" DeleteDoc="1" DeletePage="1" CreateAnno="0" CreateRedact="0"/>
+				<Users>
+					<User name="\ANNIER"/>
+					<User name="\DEBRAG"/>
+					<User name="\WENDYM"/>
+					<User name="\ANNIERLOC"/>
+					<User name="\DEBRAGLOC"/>
+				</Users>
+			</Group>
+			<Group name="\ADMISSIONS INDEXERS" description="Admissions Offices Scan &amp; Index">
+				<GlobalProfile default="0" ConfigWS="1" MultiLogin="1" CreateAnno="0" CreateRedact="0"/>
+				<Profile appName="B-S-ADMN" default="1" DeleteDoc="0" DeletePage="0" CreateApp="0" ModifyApp="0" DeleteApp="0" MigrateApp="0" COLDImport="0" COLDImportMaint="0" COLDBatchExtract="0" Admin="0" DLSMaint="0" KeyRefMaint="0" AutoIndexMaint="0" UserSecurityMaint="0" KeyRefImport="0" AutoIndexImport="0" IndexImageImport="0" FullTextIndex="0" FullTextQuery="0" OCR="0" WXPAL="0" ReportView="0" CreateAnno="1" CreateRedact="1" RetentionUser="0" RetentionAdmin="0"/>
+				<Profile appName="B-G-ID" default="0" Display="1" ConfigWS="1" MultiLogin="1" CreateAnno="0" CreateRedact="0"/>
+				<Profile appName="_RSTAMP" default="0" Display="1" ConfigWS="1" MultiLogin="1" CreateAnno="0" CreateRedact="0"/>
+				<Users>
+					<User name="\AMANDAB"/>
+					<User name="\ANNIER"/>
+					<User name="\DEBRAG"/>
+					<User name="\ELMAC"/>
+					<User name="\ERINT"/>
+					<User name="\JOSEGV"/>
+					<User name="\LORIC"/>
+					<User name="\RAULAH"/>
+					<User name="\RHONDAM"/>
+					<User name="\WENDYM"/>
+					<User name="\ANTONIOR"/>
+					<User name="\KELSEYM"/>
+					<User name="\AMYK"/>
+					<User name="\DAVIDBE"/>
+					<User name="\TRACYM"/>
+					<User name="\RHONDAMLOC"/>
+					<User name="\ELMACLOC"/>
+					<User name="\RAULHLOC"/>
+					<User name="\ANNIERLOC"/>
+					<User name="\DEBRAGLOC"/>
+					<User name="\JAUBRY"/>
+					<User name="\NIRVIN"/>
+					<User name="\AMANDABLOC"/>
+					<User name="\LORICLOC"/>
+					<User name="\APEREZTLOC"/>
+					<User name="\CCORDOVLOC"/>
+					<User name="\EVALDEZ5"/>
+					<User name="\SGAMBOA"/>
+					<User name="\AMUKATY"/>
+				</Users>
+			</Group>
+			<Group name="\ADMISSIONS VIEWERS" description="Admissions Document View Only">
+				<GlobalProfile default="0" ConfigWS="1" MultiLogin="1" CreateAnno="0" CreateRedact="0"/>
+				<Profile appName="B-S-ID" default="0" Print="1" ConfigWS="1" MultiLogin="1" CreateAnno="0" CreateRedact="0"/>
+				<Profile appName="B-S-ADMN" default="0" ModifyIndex="1" Display="1" Print="1" ConfigWS="1" MultiLogin="1" CreateAnno="0" CreateRedact="0"/>
+				<Profile appName="B-G-ID" default="0" Display="1" ConfigWS="1" MultiLogin="1" CreateAnno="0" CreateRedact="0"/>
+				<Users>
+					<User name="\ANNIER"/>
+					<User name="\DEBRAG"/>
+					<User name="\ELMAC"/>
+					<User name="\ESTHERY"/>
+					<User name="\JANETH"/>
+					<User name="\JOSEGV"/>
+					<User name="\JOYW"/>
+					<User name="\KENDALLS"/>
+					<User name="\LIZL"/>
+					<User name="\MOLLYM"/>
+					<User name="\RAULAH"/>
+					<User name="\RHONDAM"/>
+					<User name="\WENDYM"/>
+					<User name="\ANTONIOR"/>
+					<User name="\KELSEYM"/>
+					<User name="\AMYK"/>
+					<User name="\CLAIREED"/>
+					<User name="\DAVIDBE"/>
+					<User name="\DAVIDCB"/>
+					<User name="\DINAHS"/>
+					<User name="\DREWN"/>
+					<User name="\JENNIFEW"/>
+					<User name="\LEORAR"/>
+					<User name="\MARISAP"/>
+					<User name="\MONIQUEM"/>
+					<User name="\ROCIOR"/>
+					<User name="\ROSSN"/>
+					<User name="\SARAHHE"/>
+					<User name="\SOLC"/>
+					<User name="\TRACYM"/>
+					<User name="\TRACYMC"/>
+					<User name="\STUWRK1"/>
+					<User name="\STUWRK2"/>
+					<User name="\STUWRK3"/>
+					<User name="\STUWRK4"/>
+					<User name="\STUWRK5"/>
+					<User name="\KATHYJ"/>
+					<User name="\RHONDAMLOC"/>
+					<User name="\ELMACLOC"/>
+					<User name="\RAULHLOC"/>
+					<User name="\ANNIERLOC"/>
+					<User name="\DEBRAGLOC"/>
+					<User name="\MRAMIR11"/>
+					<User name="\JAUBRY"/>
+					<User name="\NIRVIN"/>
+					<User name="\MIKEAC"/>
+					<User name="\LAURAER"/>
+					<User name="\ERINDG"/>
+					<User name="\DANICAD"/>
+					<User name="\CLAUDIAB"/>
+					<User name="\JASOND"/>
+					<User name="\CURTH"/>
+					<User name="\MICHAELK"/>
+					<User name="\GREGM"/>
+					<User name="\ROELM"/>
+					<User name="\KATYO"/>
+					<User name="\ERINR"/>
+					<User name="\CYNTHIAS"/>
+					<User name="\MARIBELT"/>
+					<User name="\CANDICEF"/>
+					<User name="\CYNTHS"/>
+					<User name="\BMUNOZ2"/>
+					<User name="\FONDAS"/>
+					<User name="\SSABIN"/>
+					<User name="\NICKDP"/>
+					<User name="\LINDSEYT"/>
+					<User name="\DONNASG"/>
+					<User name="\RLOPEZP"/>
+					<User name="\LLACAYO"/>
+					<User name="\NAIRODW"/>
+					<User name="\SAKUNEB"/>
+					<User name="\SKNIGHTO"/>
+					<User name="\JHAMANN1"/>
+					<User name="\KENDALLSLOC"/>
+					<User name="\CANDICEFLOC"/>
+				</Users>
+			</Group>
+			<Group name="\ADVI ADMINS" description="Academic Advising Document Administrators">
+				<GlobalProfile default="0" ConfigWS="1" Admin="1" MultiLogin="1" CreateAnno="0" CreateRedact="0"/>
+				<Profile appName="_RSTAMP" default="0" Display="1" ConfigWS="1" Admin="1" MultiLogin="1" UserSecurityMaint="1" CreateAnno="0" CreateRedact="0"/>
+				<Users>
+					<User name="\JANETH"/>
+					<User name="\JOYW"/>
+					<User name="\KENDALLS"/>
+					<User name="\KENDALLSLOC"/>
+				</Users>
+			</Group>
+			<Group name="\ADVI INDEXERS" description="Academic Advising Scan &amp; Index">
+				<GlobalProfile default="0" ConfigWS="1" MultiLogin="1" CreateAnno="0" CreateRedact="0"/>
+				<Profile appName="B-S-ADMN" default="1" Scan="0" EnhancePages="0" ModifyIndex="0" Display="0" Print="0" DeleteDoc="0" DeletePage="0" CreateApp="0" ModifyApp="0" DeleteApp="0" MigrateApp="0" COLDImport="0" COLDImportMaint="0" COLDBatchExtract="0" Admin="0" DLSMaint="0" KeyRefMaint="0" AutoIndexMaint="0" UserSecurityMaint="0" KeyRefImport="0" AutoIndexImport="0" IndexImageImport="0" EditAnno="0" EditRedact="0" GlobalAnno="0" FullTextIndex="0" FullTextQuery="0" OCR="0" WXPAL="0" ReportView="0" CreateAnno="0" CreateRedact="0" RetentionUser="0" RetentionAdmin="0"/>
+				<Profile appName="_RSTAMP" default="0" Display="1" ConfigWS="1" MultiLogin="1" CreateAnno="0" CreateRedact="0"/>
+				<Users>
+					<User name="\ESTHERY"/>
+					<User name="\LIZL"/>
+					<User name="\ROSALINV"/>
+				</Users>
+			</Group>
+			<Group name="\ADVI VIEWERS" description="Academic Advising View Only">
+				<GlobalProfile default="0" ConfigWS="1" MultiLogin="1" CreateAnno="0" CreateRedact="0"/>
+				<Users>
+</Users>
+			</Group>
+			<Group name="\ADVI VIEWERS - DS" description="Academic Advising View Only with Disability Docs">
+				<GlobalProfile default="0" ConfigWS="1" MultiLogin="1" CreateAnno="0" CreateRedact="0"/>
+				<Users>
+</Users>
+			</Group>
+			<Group name="\ADVISING ADMINS" description="">
+				<GlobalProfile default="1" EnhancePages="0" CreateApp="0" ModifyApp="0" DeleteApp="0" MigrateApp="0" COLDImport="0" COLDImportMaint="0" COLDBatchExtract="0" DLSMaint="0" KeyRefMaint="0" AutoIndexMaint="0" UserSecurityMaint="0" KeyRefImport="0" AutoIndexImport="0" IndexImageImport="0" GlobalAnno="0" FullTextIndex="0" FullTextQuery="0" OCR="0" WXPAL="0" ReportView="0" CreateAnno="1" CreateRedact="1" RetentionUser="0" RetentionAdmin="0"/>
+				<Profile appName="SEU-S-ADVISING" default="0" CreateAnno="0" CreateRedact="0"/>
+				<Users>
+					<User name="\CYOES"/>
+				</Users>
+			</Group>
+			<Group name="\ADVISING INDEXERS" description="">
+				<GlobalProfile default="0" ConfigWS="1" MultiLogin="1" CreateAnno="0" CreateRedact="0"/>
+				<Profile appName="SEU-S-ADVISING" default="1" DeleteDoc="0" DeletePage="0" CreateApp="0" ModifyApp="0" DeleteApp="0" MigrateApp="0" COLDImport="0" COLDImportMaint="0" COLDBatchExtract="0" Admin="0" DLSMaint="0" KeyRefMaint="0" AutoIndexMaint="0" UserSecurityMaint="0" KeyRefImport="0" AutoIndexImport="0" IndexImageImport="0" GlobalAnno="0" FullTextIndex="0" FullTextQuery="0" OCR="0" WXPAL="0" ReportView="0" CreateAnno="1" CreateRedact="1" RetentionUser="0" RetentionAdmin="0"/>
+				<Users>
+</Users>
+			</Group>
+			<Group name="\ADVISING VIEWERS" description="">
+				<GlobalProfile default="0" ConfigWS="1" MultiLogin="1" CreateAnno="0" CreateRedact="0"/>
+				<Profile appName="SEU-S-ADVISING" default="0" Display="1" Print="1" ConfigWS="1" MultiLogin="1" CreateAnno="0" CreateRedact="0"/>
+				<Users>
+</Users>
+			</Group>
+			<Group name="\BDM_ADMINS" description="">
+				<GlobalProfile default="1" WXPAL="0" CreateAnno="1" CreateRedact="1"/>
+				<Users>
+					<User name="\CHERYLP"/>
+					<User name="\KRISTYH"/>
+					<User name="\STEPHENW"/>
+					<User name="\BDMADMIN"/>
+				</Users>
+			</Group>
+			<Group name="\EINS" description="Enterprise Info Systems">
+				<GlobalProfile default="0"/>
+				<Profile appName="B-G-ID" default="1" Scan="0" EnhancePages="0" ModifyIndex="0" ConfigWS="0" DeleteDoc="0" DeletePage="0" CreateApp="0" ModifyApp="0" DeleteApp="0" MigrateApp="0" COLDImport="0" COLDImportMaint="0" COLDBatchExtract="0" Admin="0" MultiLogin="0" DLSMaint="0" KeyRefMaint="0" AutoIndexMaint="0" UserSecurityMaint="0" KeyRefImport="0" AutoIndexImport="0" IndexImageImport="0" EditRedact="0" GlobalAnno="0" FullTextIndex="0" FullTextQuery="0" OCR="0" WXPAL="0" ReportView="0" CreateAnno="1" CreateRedact="0" RetentionUser="0" RetentionAdmin="0"/>
+				<Users>
+					<User name="\AARONV"/>
+					<User name="\CHERYLP"/>
+					<User name="\STEPHENW"/>
+					<User name="\MIKEM"/>
+					<User name="\TIMT"/>
+					<User name="\LEANNZ"/>
+				</Users>
+			</Group>
+			<Group name="\REGISTRAR ADMINS" description="Registrars Office Document Administrators">
+				<GlobalProfile default="0" ConfigWS="1" Admin="1" MultiLogin="1" CreateAnno="0" CreateRedact="0"/>
+				<Profile appName="B-S-SECT" default="1" CreateApp="0" DeleteApp="0" MigrateApp="0" COLDImport="0" COLDImportMaint="0" COLDBatchExtract="0" KeyRefMaint="0" AutoIndexMaint="0" KeyRefImport="0" AutoIndexImport="0" IndexImageImport="0" FullTextIndex="0" FullTextQuery="0" OCR="0" WXPAL="0" ReportView="0" CreateAnno="1" CreateRedact="1" RetentionUser="0" RetentionAdmin="0"/>
+				<Profile appName="B-S-ID" default="1" CreateApp="0" DeleteApp="0" MigrateApp="0" COLDImport="0" COLDImportMaint="0" COLDBatchExtract="0" KeyRefMaint="0" AutoIndexMaint="0" KeyRefImport="0" AutoIndexImport="0" IndexImageImport="0" FullTextIndex="0" FullTextQuery="0" OCR="0" WXPAL="0" ReportView="0" CreateAnno="1" CreateRedact="1" RetentionUser="0" RetentionAdmin="0"/>
+				<Profile appName="_RSTAMP" default="0" Display="1" ConfigWS="1" Admin="1" MultiLogin="1" UserSecurityMaint="1" EditAnno="1" CreateAnno="1" CreateRedact="0"/>
+				<Users>
+					<User name="\DONNAC"/>
+					<User name="\LANCEH"/>
+					<User name="\PATRICKF"/>
+				</Users>
+			</Group>
+			<Group name="\REGISTRAR ADVANCED INDEXERS" description="Registrars Office Scan &amp; Index Plug Global Anno">
+				<GlobalProfile default="0" ConfigWS="1" MultiLogin="1" CreateAnno="0" CreateRedact="0"/>
+				<Profile appName="B-S-SECT" default="1" DeleteDoc="0" DeletePage="0" CreateApp="0" ModifyApp="0" DeleteApp="0" MigrateApp="0" COLDImport="0" COLDImportMaint="0" COLDBatchExtract="0" Admin="0" DLSMaint="0" KeyRefMaint="0" AutoIndexMaint="0" UserSecurityMaint="0" KeyRefImport="0" AutoIndexImport="0" IndexImageImport="0" FullTextIndex="0" FullTextQuery="0" OCR="0" WXPAL="0" ReportView="0" CreateAnno="1" CreateRedact="1" RetentionUser="0" RetentionAdmin="0"/>
+				<Profile appName="B-S-ID" default="1" DeleteDoc="0" DeletePage="0" CreateApp="0" ModifyApp="0" DeleteApp="0" MigrateApp="0" COLDImport="0" COLDImportMaint="0" COLDBatchExtract="0" Admin="0" DLSMaint="0" KeyRefMaint="0" AutoIndexMaint="0" UserSecurityMaint="0" KeyRefImport="0" AutoIndexImport="0" IndexImageImport="0" FullTextIndex="0" FullTextQuery="0" OCR="0" WXPAL="0" ReportView="0" CreateAnno="1" CreateRedact="1" RetentionUser="0" RetentionAdmin="0"/>
+				<Profile appName="_RSTAMP" default="0" Display="1" ConfigWS="1" MultiLogin="1" CreateAnno="0" CreateRedact="0"/>
+				<Users>
+					<User name="\AMANDAB"/>
+					<User name="\ERINT"/>
+					<User name="\LEIGHANR"/>
+					<User name="\LORIC"/>
+					<User name="\BRIANDAG"/>
+					<User name="\BRIANDAGLOC"/>
+					<User name="\ERINTLOC"/>
+					<User name="\LEIGHANRLOC"/>
+					<User name="\AMANDABLOC"/>
+					<User name="\LORICLOC"/>
+					<User name="\JONATHAALOC"/>
+					<User name="\MCOOKALOC"/>
+				</Users>
+			</Group>
+			<Group name="\REGISTRAR DELETE" description="">
+				<GlobalProfile default="0"/>
+				<Profile appName="B-S-ID" default="0" DeleteDoc="1" DeletePage="1" CreateAnno="0" CreateRedact="0"/>
+				<Users>
+					<User name="\ERINT"/>
+					<User name="\ERINTLOC"/>
+				</Users>
+			</Group>
+			<Group name="\REGISTRAR INDEXERS" description="Registrars Office Scan and Index">
+				<GlobalProfile default="0" ConfigWS="1" MultiLogin="1" CreateAnno="0" CreateRedact="0"/>
+				<Profile appName="B-S-SECT" default="1" DeleteDoc="0" DeletePage="0" CreateApp="0" ModifyApp="0" DeleteApp="0" MigrateApp="0" COLDImport="0" COLDImportMaint="0" COLDBatchExtract="0" Admin="0" DLSMaint="0" KeyRefMaint="0" AutoIndexMaint="0" UserSecurityMaint="0" KeyRefImport="0" AutoIndexImport="0" IndexImageImport="0" GlobalAnno="0" FullTextIndex="0" FullTextQuery="0" OCR="0" WXPAL="0" ReportView="0" CreateAnno="1" CreateRedact="1" RetentionUser="0" RetentionAdmin="0"/>
+				<Profile appName="B-S-ID" default="1" DeleteDoc="0" DeletePage="0" CreateApp="0" ModifyApp="0" DeleteApp="0" MigrateApp="0" COLDImport="0" COLDImportMaint="0" COLDBatchExtract="0" Admin="0" DLSMaint="0" KeyRefMaint="0" AutoIndexMaint="0" UserSecurityMaint="0" KeyRefImport="0" AutoIndexImport="0" IndexImageImport="0" GlobalAnno="0" FullTextIndex="0" FullTextQuery="0" OCR="0" WXPAL="0" ReportView="0" CreateAnno="1" CreateRedact="1" RetentionUser="0" RetentionAdmin="0"/>
+				<Profile appName="_RSTAMP" default="0" Display="1" ConfigWS="1" MultiLogin="1" CreateAnno="0" CreateRedact="0"/>
+				<Users>
+					<User name="\DANIELPO"/>
+					<User name="\LEIGHANR"/>
+					<User name="\MARIAFC"/>
+					<User name="\STEPHAN"/>
+					<User name="\LEIGHANRLOC"/>
+					<User name="\APEREZTLOC"/>
+					<User name="\CCORDOVLOC"/>
+					<User name="\CARTEAGLOC"/>
+				</Users>
+			</Group>
+			<Group name="\REGISTRAR VIEWERS" description="Registrars Document View Only">
+				<GlobalProfile default="0" ConfigWS="1" MultiLogin="1" CreateAnno="0" CreateRedact="0"/>
+				<Profile appName="B-S-ID" default="0" Display="1" Print="1" ConfigWS="1" MultiLogin="1" CreateAnno="0" CreateRedact="0"/>
+				<Users>
+					<User name="\DAVINAJ"/>
+					<User name="\DEBRAG"/>
+					<User name="\ELMAC"/>
+					<User name="\ERINFL"/>
+					<User name="\JANETH"/>
+					<User name="\JOYW"/>
+					<User name="\KENDALLS"/>
+					<User name="\LIZL"/>
+					<User name="\MOLLYM"/>
+					<User name="\PETERB"/>
+					<User name="\RAULAH"/>
+					<User name="\RHONDAM"/>
+					<User name="\VCHRISG"/>
+					<User name="\SHERRID"/>
+					<User name="\DORAP"/>
+					<User name="\LORIE"/>
+					<User name="\KATHYJ"/>
+					<User name="\NATALIAQ"/>
+					<User name="\BENJIJ"/>
+					<User name="\THOMASLS"/>
+					<User name="\HELENEC"/>
+					<User name="\RHONDAMLOC"/>
+					<User name="\ELMACLOC"/>
+					<User name="\RAULHLOC"/>
+					<User name="\DEBRAGLOC"/>
+					<User name="\PETERAB"/>
+					<User name="\DANICAD"/>
+					<User name="\MARYA"/>
+					<User name="\RACHELMC"/>
+					<User name="\JENNLS"/>
+					<User name="\ANGELW"/>
+					<User name="\CLAUDIAB"/>
+					<User name="\JASOND"/>
+					<User name="\CURTH"/>
+					<User name="\MICHAELK"/>
+					<User name="\GREGM"/>
+					<User name="\ROELM"/>
+					<User name="\KATYO"/>
+					<User name="\ERINR"/>
+					<User name="\MARIBELT"/>
+					<User name="\CANDICEF"/>
+					<User name="\CYNTHS"/>
+					<User name="\DANAM"/>
+					<User name="\MCOOKA"/>
+					<User name="\JONATHAA"/>
+					<User name="\DAVIDA"/>
+					<User name="\ANTONIOA"/>
+					<User name="\AMYBURNE"/>
+					<User name="\MATTCL"/>
+					<User name="\CAROLTC"/>
+					<User name="\MARYBD"/>
+					<User name="\SARAG"/>
+					<User name="\MIKEH"/>
+					<User name="\JAMESWK"/>
+					<User name="\FRANKK"/>
+					<User name="\LESLIEL"/>
+					<User name="\KATHL"/>
+					<User name="\JOHNSL"/>
+					<User name="\LORELEIO"/>
+					<User name="\GREGGP"/>
+					<User name="\GARYP"/>
+					<User name="\JOEP"/>
+					<User name="\MARKP"/>
+					<User name="\DANIELR"/>
+					<User name="\MICHELRS"/>
+					<User name="\CROTARU"/>
+					<User name="\RAYSANT"/>
+					<User name="\BINW"/>
+					<User name="\KEITHFW"/>
+					<User name="\KATHLEEW"/>
+					<User name="\RALPHW"/>
+					<User name="\CRAIGLW"/>
+					<User name="\HILALY"/>
+					<User name="\BILLZAHN"/>
+					<User name="\WILLBZ"/>
+					<User name="\KRISTYB"/>
+					<User name="\ALFREDE"/>
+					<User name="\STEVENF"/>
+					<User name="\ARCELIAH"/>
+					<User name="\DAVIDRH"/>
+					<User name="\JOHNEK"/>
+					<User name="\JUDYL"/>
+					<User name="\LESLIELL"/>
+					<User name="\CHRISPM"/>
+					<User name="\THOMASP"/>
+					<User name="\KATIEPH"/>
+					<User name="\KRISS"/>
+					<User name="\NICOLER"/>
+					<User name="\LGONZAL4"/>
+					<User name="\DANIW"/>
+					<User name="\HENRYA"/>
+					<User name="\LAURAB"/>
+					<User name="\TERESAMB"/>
+					<User name="\JASONC"/>
+					<User name="\JOHNC"/>
+					<User name="\EDWARDE"/>
+					<User name="\CAROLG"/>
+					<User name="\LISAGO"/>
+					<User name="\CHARLESH"/>
+					<User name="\KINGSLEY"/>
+					<User name="\HEALY"/>
+					<User name="\MICHAELKART"/>
+					<User name="\PETERK"/>
+					<User name="\KOPEC"/>
+					<User name="\MARYK"/>
+					<User name="\DAVIDN"/>
+					<User name="\FIDELMAO"/>
+					<User name="\JEFFERYP"/>
+					<User name="\BILLQ"/>
+					<User name="\MIKEPS"/>
+					<User name="\CASEYS"/>
+					<User name="\DAVIDW"/>
+					<User name="\STACEYB"/>
+					<User name="\KATHYB"/>
+					<User name="\JOHNVC"/>
+					<User name="\MIKEDI"/>
+					<User name="\ANNAE"/>
+					<User name="\RUSSELLF"/>
+					<User name="\DANIELPG"/>
+					<User name="\KELLYGR"/>
+					<User name="\SELING"/>
+					<User name="\CHADL"/>
+					<User name="\TINAD"/>
+					<User name="\MITYLENM"/>
+					<User name="\RACHAELN"/>
+					<User name="\WILLIAMN"/>
+					<User name="\RODRIGON"/>
+					<User name="\CASIEP"/>
+					<User name="\DELIAK"/>
+					<User name="\PATP"/>
+					<User name="\MICHELYR"/>
+					<User name="\MICHELR"/>
+					<User name="\BRIANWS"/>
+					<User name="\ALANS"/>
+					<User name="\SARAA"/>
+					<User name="\MIKEWA"/>
+					<User name="\JEANNETW"/>
+					<User name="\CHRISTIW"/>
+					<User name="\TOMASY"/>
+					<User name="\ALANA"/>
+					<User name="\RICHARDB"/>
+					<User name="\MARYKB"/>
+					<User name="\LOUISB"/>
+					<User name="\SHANNANB"/>
+					<User name="\MARKC"/>
+					<User name="\SCOTTC"/>
+					<User name="\AMYRC"/>
+					<User name="\KELLEYB"/>
+					<User name="\STEPHEND"/>
+					<User name="\KATHE"/>
+					<User name="\BILLYE"/>
+					<User name="\REGINAF"/>
+					<User name="\BARBARAF"/>
+					<User name="\CHRISTOF"/>
+					<User name="\TERESG"/>
+					<User name="\KIMG"/>
+					<User name="\SHEILAMG"/>
+					<User name="\JACKGM"/>
+					<User name="\JENNIFRG"/>
+					<User name="\DONALDH"/>
+					<User name="\JENNAH"/>
+					<User name="\RYANH"/>
+					<User name="\KENDALLK"/>
+					<User name="\WILLIAMK"/>
+					<User name="\DREWML"/>
+					<User name="\DAVIDML"/>
+					<User name="\EVL"/>
+					<User name="\CORYJL"/>
+					<User name="\STEPHANM"/>
+					<User name="\MICHAELM"/>
+					<User name="\ILAMC"/>
+					<User name="\SYBILM"/>
+					<User name="\INNESM"/>
+					<User name="\MICHELEM"/>
+					<User name="\MIGUELN"/>
+					<User name="\LORIP"/>
+					<User name="\TUANP"/>
+					<User name="\MICHELLP"/>
+					<User name="\CATHERNR"/>
+					<User name="\JANNR"/>
+					<User name="\MARIER"/>
+					<User name="\ALEXAN"/>
+					<User name="\STEVERO"/>
+					<User name="\LYNNR"/>
+					<User name="\PSEMINET"/>
+					<User name="\GEORGIAS"/>
+					<User name="\BRIANJS"/>
+					<User name="\MARYHS"/>
+					<User name="\HARVEYS"/>
+					<User name="\TERIV"/>
+					<User name="\JENNV"/>
+					<User name="\JOSEPHV"/>
+					<User name="\PETERAW"/>
+					<User name="\CORINNEW"/>
+					<User name="\WILLIAMZ"/>
+					<User name="\NSCHREIB"/>
+					<User name="\NICKDP"/>
+					<User name="\GARYMORRIS"/>
+					<User name="\BRENDAV"/>
+					<User name="\CYNTHIAN"/>
+					<User name="\DONNAJ"/>
+					<User name="\GEORGEM"/>
+					<User name="\GRANTS"/>
+					<User name="\JFRANKS"/>
+					<User name="\JULIAL"/>
+					<User name="\KIML"/>
+					<User name="\LINDSEYT"/>
+					<User name="\LISAK"/>
+					<User name="\MBOYD"/>
+					<User name="\MIKELG"/>
+					<User name="\NATACHAM"/>
+					<User name="\NICOLEG"/>
+					<User name="\PATRICIAB"/>
+					<User name="\SHARONN"/>
+					<User name="\MCOOKALOC"/>
+					<User name="\RLOPEZP"/>
+					<User name="\SARACO"/>
+					<User name="\JORDANW"/>
+					<User name="\THERESAB"/>
+					<User name="\JIMMYL"/>
+					<User name="\ARACELIR"/>
+					<User name="\RROGERS1"/>
+					<User name="\LAWRENCC"/>
+					<User name="\MDJADLI"/>
+					<User name="\GBITTSON"/>
+					<User name="\GBITTSONLOC"/>
+					<User name="\KENDALLSLOC"/>
+					<User name="\CANDICEFLOC"/>
+					<User name="\MDJADLILOC"/>
+				</Users>
+			</Group>
+			<Group name="\REGR SFS VIEWER" description="View of Transcripts and Petitions">
+				<GlobalProfile default="0" ConfigWS="1" MultiLogin="1" CreateAnno="0" CreateRedact="0"/>
+				<Profile appName="B-S-ID" default="0" Display="1" ConfigWS="1" MultiLogin="1" CreateAnno="0" CreateRedact="0"/>
+				<Users>
+					<User name="\DANIELS"/>
+					<User name="\DARRELT"/>
+					<User name="\DAVINAJ"/>
+					<User name="\DORISC"/>
+					<User name="\JEANB"/>
+					<User name="\KARENS"/>
+					<User name="\KATIEM"/>
+					<User name="\MELISSAW"/>
+					<User name="\NICHOLET"/>
+					<User name="\RICKA"/>
+					<User name="\STEVENP"/>
+					<User name="\VALERIES"/>
+				</Users>
+			</Group>
+			<Group name="\SCHOOL ADMINISTRATORS" description="Viewer level access">
+				<GlobalProfile default="0"/>
+				<Users>
+</Users>
+			</Group>
+			<Group name="\SDS ADMINS" description="Student Disability Services Admins">
+				<GlobalProfile default="0" ConfigWS="1" MultiLogin="1" CreateAnno="0" CreateRedact="0"/>
+				<Profile appName="SEU-S-SDS" default="1" CreateApp="0" ModifyApp="0" DeleteApp="0" MigrateApp="0" COLDImport="0" COLDImportMaint="0" COLDBatchExtract="0" Admin="0" DLSMaint="0" KeyRefMaint="0" AutoIndexMaint="0" UserSecurityMaint="0" KeyRefImport="0" AutoIndexImport="0" IndexImageImport="0" GlobalAnno="0" FullTextIndex="0" FullTextQuery="0" OCR="0" WXPAL="0" ReportView="0" CreateAnno="1" CreateRedact="1" RetentionUser="0" RetentionAdmin="0"/>
+				<Users>
+					<User name="\KENDALLS"/>
+					<User name="\CANDICEF"/>
+					<User name="\KENDALLSLOC"/>
+					<User name="\CANDICEFLOC"/>
+				</Users>
+			</Group>
+			<Group name="\SDS INDEXERS" description="Student Disability Services Document Indexers">
+				<GlobalProfile default="0" ConfigWS="1" MultiLogin="1" CreateAnno="0" CreateRedact="0"/>
+				<Profile appName="SEU-S-SDS" default="1" Print="0" DeleteDoc="0" DeletePage="0" CreateApp="0" ModifyApp="0" DeleteApp="0" MigrateApp="0" COLDImport="0" COLDImportMaint="0" COLDBatchExtract="0" Admin="0" DLSMaint="0" KeyRefMaint="0" AutoIndexMaint="0" UserSecurityMaint="0" KeyRefImport="0" AutoIndexImport="0" IndexImageImport="0" EditRedact="0" GlobalAnno="0" FullTextIndex="0" FullTextQuery="0" OCR="0" WXPAL="0" ReportView="0" CreateAnno="1" CreateRedact="0" RetentionUser="0" RetentionAdmin="0"/>
+				<Users>
+					<User name="\MDJADLI"/>
+					<User name="\MDJADLILOC"/>
+				</Users>
+			</Group>
+			<Group name="\SDS VIEWERS" description="Student Disability Services Document Viewers">
+				<GlobalProfile default="0" ConfigWS="1" MultiLogin="1" CreateAnno="0" CreateRedact="0"/>
+				<Profile appName="SEU-S-SDS" default="0" Display="1" ConfigWS="1" MultiLogin="1" CreateAnno="0" CreateRedact="0"/>
+				<Users>
+</Users>
+			</Group>
+			<Group name="\SFS ADMINS" description="Student Financial Services Administrators">
+				<GlobalProfile default="0" ConfigWS="1" Admin="1" MultiLogin="1" CreateAnno="0" CreateRedact="0"/>
+				<Profile appName="B-R-TREQ" default="1" CreateApp="0" DeleteApp="0" MigrateApp="0" COLDImport="0" COLDImportMaint="0" COLDBatchExtract="0" KeyRefMaint="0" AutoIndexMaint="0" KeyRefImport="0" AutoIndexImport="0" IndexImageImport="0" FullTextIndex="0" FullTextQuery="0" OCR="0" WXPAL="0" ReportView="0" CreateAnno="1" CreateRedact="1" RetentionUser="0" RetentionAdmin="0"/>
+				<Profile appName="_RSTAMP" default="0" Display="1" ConfigWS="1" Admin="1" MultiLogin="1" UserSecurityMaint="1" CreateAnno="0" CreateRedact="0"/>
+				<Users>
+					<User name="\FAISUSR"/>
+					<User name="\KIMBERH"/>
+					<User name="\PETERB"/>
+					<User name="\STEVENP"/>
+				</Users>
+			</Group>
+			<Group name="\SFS INDEXERS" description="Student Financial Services Scan &amp; Index">
+				<GlobalProfile default="0" ConfigWS="1" MultiLogin="1" CreateAnno="0" CreateRedact="0"/>
+				<Profile appName="B-R-TREQ" default="1" DeleteDoc="0" DeletePage="0" CreateApp="0" ModifyApp="0" DeleteApp="0" MigrateApp="0" COLDImport="0" COLDImportMaint="0" COLDBatchExtract="0" Admin="0" DLSMaint="0" KeyRefMaint="0" AutoIndexMaint="0" UserSecurityMaint="0" KeyRefImport="0" AutoIndexImport="0" IndexImageImport="0" GlobalAnno="0" FullTextIndex="0" FullTextQuery="0" OCR="0" WXPAL="0" ReportView="0" CreateAnno="1" CreateRedact="1" RetentionUser="0" RetentionAdmin="0"/>
+				<Profile appName="_RSTAMP" default="0" Display="1" ConfigWS="1" MultiLogin="1" CreateAnno="0" CreateRedact="0"/>
+				<Users>
+					<User name="\DANIELS"/>
+					<User name="\DARRELT"/>
+					<User name="\DAVINAJ"/>
+					<User name="\DORISC"/>
+					<User name="\ERINFL"/>
+					<User name="\GRACIEG"/>
+					<User name="\JEANB"/>
+					<User name="\KARENS"/>
+					<User name="\KATIEM"/>
+					<User name="\KIMW"/>
+					<User name="\MELISSAW"/>
+					<User name="\NICHOLET"/>
+					<User name="\RICKA"/>
+					<User name="\SARAHB"/>
+					<User name="\VALERIES"/>
+					<User name="\VCHRISG"/>
+					<User name="\SFS_SCAN"/>
+				</Users>
+			</Group>
+			<Group name="\SFS VIEWERS-ADMN" description="SFS View Only for Admissions">
+				<GlobalProfile default="0" ConfigWS="1" MultiLogin="1" CreateAnno="0" CreateRedact="0"/>
+				<Profile appName="B-R-TREQ" default="0" Display="1" ConfigWS="1" MultiLogin="1" CreateAnno="0" CreateRedact="0"/>
+				<Users>
+					<User name="\ELMAC"/>
+					<User name="\ELMACLOC"/>
+				</Users>
+			</Group>
+			<Group name="\SFS VIEWERS-REG" description="SFS Document View Only for Registrars Office">
+				<GlobalProfile default="0" ConfigWS="1" MultiLogin="1" CreateAnno="0" CreateRedact="0"/>
+				<Profile appName="B-R-TREQ" default="0" Display="1" ConfigWS="1" MultiLogin="1" CreateAnno="0" CreateRedact="0"/>
+				<Users>
+					<User name="\PATRICKF"/>
+				</Users>
+			</Group>
+		</Groups>
+	</Security>
+	<AnnoGroups>
+		<AnnoGroup name="REGISTRAR">
+			<AnnoGroupPerm name="REGISTRAR ADMINS" type="group" Legacy="1"/>
+		</AnnoGroup>
+	</AnnoGroups>
+</DsDescriptor>
